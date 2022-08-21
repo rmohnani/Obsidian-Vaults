@@ -1,4 +1,9 @@
 [
   "obsidian-minimal-settings",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "templater-obsidian",
+  "sliding-panes-obsidian"
 ]

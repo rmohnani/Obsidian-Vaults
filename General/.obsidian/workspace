@@ -118,6 +118,14 @@
                 "file": "Kanbans/General Kanban.md"
               }
             }
+          },
+          {
+            "id": "f08a9ea6838d6c5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
