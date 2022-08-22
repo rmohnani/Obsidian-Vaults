@@ -13,6 +13,9 @@ kanban-plugin: basic
 - [ ] Write A thing that cannot be stopped
 - [ ] Write Magic to Make the Sanest Man go Mad
 - [ ] Select stuff to buy from buy tab group on iphone
+- [ ] Download photos from icloud
+- [ ] Cancel Apple subscriptions
+- [ ] Cleanup iphone (delete unnecessary apps, etc)
 
 
 ## In Progress
