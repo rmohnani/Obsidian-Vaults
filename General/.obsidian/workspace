@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1863f0a68e60078e",
+        "id": "8f920214d9305839",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanbans/General Kanban.md"
+            "file": "Daily Notes/2022-08-22 Mon.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbans/General Kanban.md",
+                "file": "Daily Notes/2022-08-22 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbans/General Kanban.md",
+                "file": "Daily Notes/2022-08-22 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbans/General Kanban.md"
+                "file": "Daily Notes/2022-08-22 Mon.md"
               }
             }
           },
@@ -126,17 +128,31 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "cc1ddf91e797865d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1863f0a68e60078e",
+  "active": "8f920214d9305839",
   "lastOpenFiles": [
+    "Templates/Daily Note Template.md",
+    "Templates/Kanban Template.md",
     "Kanbans/General Kanban.md",
+    "Daily Notes/2022-08-20 Sat.md",
+    "Daily Notes/2022-08-21 Sun.md",
+    "2022-08-21 Sun.md",
+    "Templates/Cracking the Coding Interview Chapter Template.md",
     "Untitled.md"
   ]
 }
