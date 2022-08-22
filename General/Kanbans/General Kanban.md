@@ -21,13 +21,13 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] Factory Reset Didi's Mac
-- [ ] Send eye prescription to Warby Parker
 
 
 ## Completed
 
 **Complete**
 - [x] Fix Mama's Bhajan pendrive
+- [x] Send eye prescription to Warby Parker
 
 
 ***

@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Valid Anagram]]
+- [ ] [[Group Anagrams]]
 
 
 ## In Progress
@@ -16,6 +16,8 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+- [x] [[Valid Anagram]]
+- [x] [[Two Sum]]
 
 
 
