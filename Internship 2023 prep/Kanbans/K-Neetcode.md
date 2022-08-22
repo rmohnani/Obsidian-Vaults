@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Valid Anagram]]
 
 
 ## In Progress

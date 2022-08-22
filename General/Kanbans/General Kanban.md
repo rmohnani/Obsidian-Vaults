@@ -12,11 +12,13 @@ kanban-plugin: basic
 - [ ] Write Since the Beginning
 - [ ] Write A thing that cannot be stopped
 - [ ] Write Magic to Make the Sanest Man go Mad
+- [ ] Select stuff to buy from buy tab group on iphone
 
 
 ## In Progress
 
 - [ ] Factory Reset Didi's Mac
+- [ ] Send eye prescription to Warby Parker
 
 
 ## Completed
