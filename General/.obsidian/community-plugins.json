@@ -5,5 +5,8 @@
   "calendar",
   "dataview",
   "templater-obsidian",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "periodic-notes",
+  "obsidian-day-planner",
+  "nldates-obsidian"
 ]

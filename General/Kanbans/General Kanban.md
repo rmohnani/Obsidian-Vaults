@@ -22,6 +22,7 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+- [x] Fix Mama's Bhajan pendrive
 
 
 ***
