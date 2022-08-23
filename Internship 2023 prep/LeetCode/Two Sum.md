@@ -4,8 +4,9 @@ tags:
 ---
 **Title**: 1. Two Sum
 **Link**: https://leetcode.com/problems/two-sum/
-**Difficulty**: #leetcode/easy 
-**Special tags**: #neetcode/arrays_hashing 
+**Difficulty**: #leetcode/difficulty/easy 
+**Special tags**: #neetcode/area/arrays_hashing 
+**Status**: #leetcode/status/completed
 
 ---
 # Problem Statement

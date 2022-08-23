@@ -4,8 +4,9 @@ tags:
 ---
 **Title**: 217. Contains Duplicate
 **Link**: https://leetcode.com/problems/contains-duplicate/
-**Difficulty**: #leetcode/easy 
-**Special tags**: #neetcode/arrays_hashing
+**Difficulty**: #leetcode/difficulty/easy 
+**Special tags**: #neetcode/area/arrays_hashing
+**Status**: #leetcode/status/completed 
 
 ---
 # Problem Statement

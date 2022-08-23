@@ -4,8 +4,9 @@ tags:
 ---
 **Title**: 242. Valid Anagram
 **Link**: https://leetcode.com/problems/valid-anagram/
-**Difficulty**: #leetcode/easy 
-**Special tags**: #neetcode/arrays_hashing 
+**Difficulty**: #leetcode/difficulty/easy 
+**Special tags**: #neetcode/area/arrays_hashing  
+**Status**: #leetcode/status/completed 
 
 ---
 # Problem Statement
