@@ -20,7 +20,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Factory Reset Didi's Mac
 
 
 ## Completed
@@ -28,6 +27,7 @@ kanban-plugin: basic
 **Complete**
 - [x] Fix Mama's Bhajan pendrive
 - [x] Send eye prescription to Warby Parker
+- [x] Factory Reset Didi's Mac
 
 
 ***
