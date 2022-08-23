@@ -20,6 +20,8 @@ You must write an algorithm that runs in `O(n)` time and without using the div
 ---
 # My Solution
 
+seems like some bit operation bullshit
+
 notes: 
 time complexity: 
 space complexity: 

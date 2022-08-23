@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Top K Frequent Elements]]
-- [ ] [[Product of Array Except Self]]
 - [ ] [[Valid Sudoku]]
 - [ ] [[Encode and Decode Strings]]
 - [ ] [[Longest Consecutive Sequence]]
@@ -15,11 +13,13 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] [[Product of Array Except Self]]
 
 
 ## Completed
 
 **Complete**
+- [x] [[Top K Frequent Elements]]
 
 
 ***
