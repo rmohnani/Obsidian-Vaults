@@ -37,7 +37,7 @@ space complexity: O(n)
 
 ---
 # Best Solution
-#leetcode/gotBestSolution 
+#leetcode/got_best_solution 
 ```python
 ```python
 class Solution:

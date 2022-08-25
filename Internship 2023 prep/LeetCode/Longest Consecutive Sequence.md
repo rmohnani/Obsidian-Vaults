@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/longest-consecutive-sequence/
 **Difficulty**: #leetcode/difficulty/medium 
 **Special tags**: #neetcode/area/arrays_hashing 
-**Status**: #leetcode/status/todo  
+**Status**: #leetcode/status/completed 
 
 ---
 # Problem Statement
@@ -17,6 +17,8 @@ You must write an algorithm that runs in `O(n)` time.
 
 ---
 # My Solution
+#leetcode/couldnt_solve 
+This is stupid
 
 notes: 
 time complexity: 
@@ -24,10 +26,22 @@ space complexity:
 
 ---
 # Best Solution
-
-notes: 
-time complexity: 
-space complexity: 
+```python
+class Solution:
+	def longestConsecutive(self, nums: List[int]) -> int:
+		numSet = set(nums)
+		longest = 0
+		for n in nums: 
+		# check if its the start of a sequence if (n - 1) not in numSet:
+			length = 1
+			while (n + length) in numSet:
+				length += 1
+			longest = max(length, longest)
+		return longest
+```
+notes: Creates a set of the nums. Looks for a starting num with no previous then simply checks if the next num is in set and so on then store the max.
+time complexity: O(n)
+space complexity: O(n) because of the set
 
 ---
 

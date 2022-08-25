@@ -6,20 +6,25 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Valid Sudoku]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Longest Consecutive Sequence]]
+- [ ] [[Two Sum II - Input Array Is Sorted]]
+- [ ] [[3Sum]]
+- [ ] [[Container With Most Water]]
+- [ ] [[Trapping Rain Water]]
 
 
 ## In Progress
 
-- [ ] [[Product of Array Except Self]]
 
 
 ## Completed
 
 **Complete**
 - [x] [[Top K Frequent Elements]]
+- [x] [[Product of Array Except Self]]
+- [x] [[Valid Sudoku]]
+- [x] [[Longest Consecutive Sequence]]
+- [x] [[Valid Palindrome]]
 
 
 ***

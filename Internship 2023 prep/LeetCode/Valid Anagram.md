@@ -66,7 +66,7 @@ space complexity: O(s)
 
 ---
 # Best Solution
-#leetcode/gotBestSolution 
+#leetcode/got_best_solution 
 notes: 
 time complexity: 
 space complexity: 
