@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Transfer Data from my Mac to hardrive
 - [ ] Factory Reset My Mac
 - [ ] Write Since the Beginning
 - [ ] Write A thing that cannot be stopped
@@ -15,15 +14,13 @@ kanban-plugin: basic
 - [ ] Download photos from icloud
 - [ ] Cancel Apple subscriptions
 - [ ] Cleanup iphone (delete unnecessary apps, etc)
-- [ ] Fix home internet
 - [ ] Set up icloud backup storage for everyone
 - [ ] Remind Mama to message ps4 repair guy for laptop
-- [ ] Remind Papa to message the guy for the laptop
 
 
 ## In Progress
 
-- [ ] Factory Reset Didi's Mac
+- [ ] Transfer Data from my Mac to hardrive
 
 
 ## Completed
@@ -32,6 +29,9 @@ kanban-plugin: basic
 - [x] Fix Mama's Bhajan pendrive
 - [x] Send eye prescription to Warby Parker
 - [x] Take Pictures, note config details and give to Mama and put Surface book 3 on site for sale
+- [x] Factory Reset Didi's Mac
+- [x] Fix home internet
+- [x] Remind Papa to message the guy for the laptop
 
 
 ***

@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Two Sum II - Input Array Is Sorted]]
 - [ ] [[3Sum]]
 - [ ] [[Container With Most Water]]
 - [ ] [[Trapping Rain Water]]
@@ -15,6 +14,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] [[Two Sum II - Input Array Is Sorted]]
 
 
 ## Completed

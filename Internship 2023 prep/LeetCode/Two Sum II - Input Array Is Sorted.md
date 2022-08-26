@@ -22,9 +22,25 @@ Your solution must use only constant extra space.
 ---
 # My Solution
 
-notes: 
-time complexity: 
-space complexity: 
+```python
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        left = 0
+        right = len(numbers) - 1
+        
+        while numbers[left] + numbers[right] != target:
+            total = numbers[left] + numbers[right]
+            if total > target:
+                right -= 1
+            else:
+                left += 1
+        
+        return [left + 1, right + 1]
+        
+```
+notes:  One pointer on the left and one on the right. If the total is greater than target shift right pointer left. Now the value of the left pointer will also need to be higher. so if the total is less than target shift left pointer right. this means we will always be looking in the correct direction for combinations. because we wont have the case where the left pointer or right pointer may need to backtrack.
+time complexity: O(n)
+space complexity: O(1)
 
 ---
 # Best Solution
