@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 **Difficulty**: #leetcode/difficulty/medium  
 **Special tags**: #neetcode/area/two_pointers 
-**Status**: #leetcode/status/todo  
+**Status**: #leetcode/status/completed   
 
 ---
 # Problem Statement
@@ -44,8 +44,23 @@ space complexity: O(1)
 
 ---
 # Best Solution
+#leetcode/got_best_solution 
+```python
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        l, r = 0, len(numbers) - 1
 
-notes: 
+        while l < r:
+            curSum = numbers[l] + numbers[r]
+
+            if curSum > target:
+                r -= 1
+            elif curSum < target:
+                l += 1
+            else:
+                return [l + 1, r + 1]
+```
+notes: Slightly better. uses better termination condition of while left pointer less than right pointer, if they cross then there is no solution. Since we are guaranteed a solution in the question I used that as my termination condition but this is more general.
 time complexity: 
 space complexity: 
 

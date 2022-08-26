@@ -14,7 +14,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] [[Two Sum II - Input Array Is Sorted]]
 
 
 ## Completed
@@ -25,6 +24,7 @@ kanban-plugin: basic
 - [x] [[Valid Sudoku]]
 - [x] [[Longest Consecutive Sequence]]
 - [x] [[Valid Palindrome]]
+- [x] [[Two Sum II - Input Array Is Sorted]]
 
 
 ***
