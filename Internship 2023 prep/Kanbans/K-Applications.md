@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Finalize Resume
 - [ ] Finalize Linkedin
 - [ ] Message Jane Street Alumni for Referral
+- [ ] Palantir Essay Responses
 
 
 ## In Progress
@@ -18,6 +18,7 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+- [x] Finalize Resume
 
 
 
