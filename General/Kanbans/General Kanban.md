@@ -19,7 +19,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Factory Reset My Mac
 
 
 ## Completed
@@ -32,6 +31,7 @@ kanban-plugin: basic
 - [x] Fix home internet
 - [x] Remind Papa to message the guy for the laptop
 - [x] Transfer Data from my Mac to hardrive
+- [x] Factory Reset My Mac
 
 
 ***
