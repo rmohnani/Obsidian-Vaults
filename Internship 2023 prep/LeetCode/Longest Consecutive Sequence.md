@@ -32,11 +32,12 @@ class Solution:
 		numSet = set(nums)
 		longest = 0
 		for n in nums: 
-		# check if its the start of a sequence if (n - 1) not in numSet:
-			length = 1
-			while (n + length) in numSet:
-				length += 1
-			longest = max(length, longest)
+		# check if its the start of a sequence
+			if (n - 1) not in numSet:
+				length = 1
+				while (n + length) in numSet:
+					length += 1
+				longest = max(length, longest)
 		return longest
 ```
 notes: Creates a set of the nums. Looks for a starting num with no previous then simply checks if the next num is in set and so on then store the max.

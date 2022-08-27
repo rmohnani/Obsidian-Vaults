@@ -15,6 +15,9 @@ kanban-plugin: basic
 - [ ] Cleanup iphone (delete unnecessary apps, etc)
 - [ ] Set up icloud backup storage for everyone
 - [ ] Remind Mama to message ps4 repair guy for laptop
+- [ ] Order My Mac
+- [ ] Order my Ipad
+- [ ] Order my Apple pencil
 
 
 ## In Progress
