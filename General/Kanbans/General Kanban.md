@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Factory Reset My Mac
 - [ ] Write Since the Beginning
 - [ ] Write A thing that cannot be stopped
 - [ ] Write Magic to Make the Sanest Man go Mad
@@ -20,7 +19,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Transfer Data from my Mac to hardrive
+- [ ] Factory Reset My Mac
 
 
 ## Completed
@@ -32,6 +31,7 @@ kanban-plugin: basic
 - [x] Factory Reset Didi's Mac
 - [x] Fix home internet
 - [x] Remind Papa to message the guy for the laptop
+- [x] Transfer Data from my Mac to hardrive
 
 
 ***

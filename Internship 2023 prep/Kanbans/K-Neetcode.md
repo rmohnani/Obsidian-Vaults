@@ -7,13 +7,13 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[3Sum]]
 - [ ] [[Container With Most Water]]
 - [ ] [[Trapping Rain Water]]
 
 
 ## In Progress
 
+- [ ] [[3Sum]]
 
 
 ## Completed
