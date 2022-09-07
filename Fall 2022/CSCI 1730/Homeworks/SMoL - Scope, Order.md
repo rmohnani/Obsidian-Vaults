@@ -5,6 +5,7 @@
 16:29 - Installed [Stacker](https://github.com/LuKC1024/stacker)
 16:31 - Installed [SMoL family of languages](https://github.com/shriram/smol)
 17:56 - Finished Scope
+18:59 - Finished Order
 
 
 # Tasks
@@ -274,5 +275,30 @@ The answer should be `error`. The first definition tries to bind `y` to the v
 > [!error] 
 > Any direct binding of variable to value whether it is just a value or the ouput of a function call requires that the value be able to be evaluated. Otherwise it returns an `error`
 
+```racket
+#lang stacker/smol/fun
 
+(defvar x 2)
+(deffun (main)
+  (deffun (getx)
+    x)
+  (defvar y (getx))
+  (defvar x 3)
+  y)
+
+(main)
+
+```
+
+The answer should be `error`. `getx` is defined in `main`. So it must refer to the `x` defined in `main` rather than the `x` defined in the top-level block. But the `x` defined in `main` has not yet been bound to a value when we bind the value of `(getx)` to `y`, so the program errors.
+
+> [!important] 
+> 1. Every `defvar` evaluates the expression immediately and binds the variable to the value, even if the variable is not used later in the program.
+> 2. Every function call evaluates the actual parameters immediately and binds the values to formal parameters, even when the formal parameter is not used in the function.
+> 3. A sequence of `defvar` and `deffun` binds the variables to the values in top-to-bottom, left-to-right order.
+> 4. It is an error to evaluate a variable reference before binding it to a value.
+
+![[Screen Shot 2022-09-07 at 6.58.08 PM.png | 400]]
+![[Screen Shot 2022-09-07 at 6.53.32 PM.png | 400]]
+![[Screen Shot 2022-09-07 at 6.58.12 PM.png | 400]]
 
