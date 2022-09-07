@@ -130,4 +130,4 @@ Here the Blocks are:
 
 ```
 
-This returns 3. 
+This returns 3. Because `y` is defined before the function call, this executes fine, because the top level environment has a definition for `y`. 
