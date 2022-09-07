@@ -245,5 +245,34 @@ Because x is used twice in the function body block
 
 The program errors when it tries to evaluate `(/ 1 0)`.
 
+```racket
+#lang stacker/smol/fun
+
+(deffun (f x)
+  42)
+(f (/ 1 0))
+
+```
+
+> [!important] 
+> Function calls bind their formal parameters to the values of actual parameters. In order to bind it has to evaluate the value of the actual parameter passed. If this can't be done it returns an `error`
+
+In this case it errors because the function `f` binds `x` to `(/ 1 0)`, but that can't be evaluated.
+
+```racket
+#lang stacker/smol/fun
+
+(defvar y (+ x 2))
+(defvar x 1)
+x
+y
+
+```
+
+The answer should be `error`. The first definition tries to bind `y` to the value of `(+ x 2)`. To evaluate `(+ x 2)`, we need the value of `x`. But `x` is not bound to a value at that moment.
+
+> [!error] 
+> Any direct binding of variable to value whether it is just a value or the ouput of a function call requires that the value be able to be evaluated. Otherwise it returns an `error`
+
 
 
