@@ -10,13 +10,7 @@ kanban-plugin: basic
 - [ ] Write A thing that cannot be stopped
 - [ ] Write Magic to Make the Sanest Man go Mad
 - [ ] Select stuff to buy from buy tab group on iphone
-- [ ] Download photos from icloud
-- [ ] Cancel Apple subscriptions
 - [ ] Cleanup iphone (delete unnecessary apps, etc)
-- [ ] Set up icloud backup storage for everyone
-- [ ] Remind Mama to message ps4 repair guy for laptop
-- [ ] Order My Mac
-- [ ] Order my Ipad
 - [ ] Order my Apple pencil
 
 
@@ -27,6 +21,13 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+
+
+***
+
+## Archive
+
+- [x] Fix Mama's Bhajan pendrive
 - [x] Fix Mama's Bhajan pendrive
 - [x] Send eye prescription to Warby Parker
 - [x] Take Pictures, note config details and give to Mama and put Surface book 3 on site for sale
@@ -35,13 +36,11 @@ kanban-plugin: basic
 - [x] Remind Papa to message the guy for the laptop
 - [x] Transfer Data from my Mac to hardrive
 - [x] Factory Reset My Mac
-
-
-***
-
-## Archive
-
-- [x] Fix Mama's Bhajan pendrive
+- [x] Cancel Apple subscriptions
+- [x] Set up icloud backup storage for everyone
+- [x] Remind Mama to message ps4 repair guy for laptop
+- [x] Order My Mac
+- [x] Order my Ipad
 
 %% kanban:settings
 ```
