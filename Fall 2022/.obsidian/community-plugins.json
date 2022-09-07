@@ -1,3 +1,13 @@
 [
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "table-editor-obsidian",
+  "dataview",
+  "calendar",
+  "obsidian-kanban",
+  "templater-obsidian",
+  "obsidian-admonition",
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "cm-editor-syntax-highlight-obsidian",
+  "tag-wrangler"
 ]
