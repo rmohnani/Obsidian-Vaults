@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "05d6e7c1d4cfbf4f",
+        "id": "eaa3f140077f8bea",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanbans/Everything Kanban.md"
+            "file": "CSCI 1730/Why Racket?.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "CSCI 1730/Why Racket?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "CSCI 1730/Why Racket?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbans/Everything Kanban.md"
+                "file": "CSCI 1730/Why Racket?.md"
               }
             }
           },
@@ -134,10 +136,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8593fb3c407446c6",
+  "active": "eaa3f140077f8bea",
   "lastOpenFiles": [
     "Kanbans/Everything Kanban.md",
-    "CSCI 1730/Lecture 1.md",
+    "Templates/Homework Template.md",
+    "Templates/Lecture Template.md",
+    "CSCI 1730/Why Racket?.md",
+    "CSCI 1730/Homeworks/Mystery Language - Arithmetic.md",
+    "CSCI 1730/Homeworks/SMoL - Scope, Order.md",
+    "CSCI 1730/Lectures/Lecture 1.md",
     "Daily Notes/2022-09-07 Wed.md",
     "2022-09-07.md",
     "Kanbans/General Kanban.md"

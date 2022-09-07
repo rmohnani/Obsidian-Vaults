@@ -1,0 +1,4 @@
+{
+  "prepend-archive-date": true,
+  "prepend-archive-separator": " - "
+}
