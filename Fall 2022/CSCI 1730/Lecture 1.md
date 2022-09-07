@@ -1,4 +1,5 @@
-[[2022-09-07]]
+
+[[2022-09-07 Wed]]
 
 SMoL - Standard Model of Languages
 SImPl - Standard Implementation Plan
