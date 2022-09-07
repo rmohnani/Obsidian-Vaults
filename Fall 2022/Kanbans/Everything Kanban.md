@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] CSCI 1730 GradeScope Setup
 - [ ] CSCI 1730 HW 1
 
 
@@ -24,6 +25,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","prepend-archive-date":true,"prepend-archive-separator":" - "}
 ```
 %%

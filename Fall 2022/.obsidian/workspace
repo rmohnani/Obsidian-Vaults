@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d99bc5a4ed9240d1",
+        "id": "05d6e7c1d4cfbf4f",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -134,12 +134,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d99bc5a4ed9240d1",
+  "active": "8593fb3c407446c6",
   "lastOpenFiles": [
+    "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lecture 1.md",
     "Daily Notes/2022-09-07 Wed.md",
     "2022-09-07.md",
-    "Kanbans/Everything Kanban.md",
     "Kanbans/General Kanban.md"
   ]
 }
