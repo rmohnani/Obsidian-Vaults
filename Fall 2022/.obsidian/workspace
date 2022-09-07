@@ -7,8 +7,12 @@
         "id": "d99bc5a4ed9240d1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CSCI 1730/Lecture 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSCI 1730/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSCI 1730/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSCI 1730/Lecture 1.md"
+              }
             }
           }
         ]
@@ -121,5 +129,8 @@
     "collapsed": true
   },
   "active": "d99bc5a4ed9240d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2022-09-07.md",
+    "CSCI 1730/Lecture 1.md"
+  ]
 }
