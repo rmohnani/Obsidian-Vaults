@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa3f140077f8bea",
+        "id": "c80d46f1632d636a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eaa3f140077f8bea",
+  "active": "c80d46f1632d636a",
   "lastOpenFiles": [
-    "CSCI 1730/Why Racket?.md",
-    "Kanbans/Everything Kanban.md",
-    "Templates/Homework Template.md",
-    "Templates/Lecture Template.md",
-    "CSCI 1730/Homeworks/Mystery Language - Arithmetic.md",
+    "Screen Shot 2022-09-07 at 5.43.26 PM.png (width = 50%).md",
     "CSCI 1730/Homeworks/SMoL - Scope, Order.md",
-    "CSCI 1730/Lectures/Lecture 1.md",
-    "Daily Notes/2022-09-07 Wed.md",
-    "2022-09-07.md",
-    "Kanbans/General Kanban.md"
+    "Media/Screen Shot 2022-09-07 at 5.43.40 PM.png",
+    "Media/Screen Shot 2022-09-07 at 5.44.29 PM.png",
+    "Media/Screen Shot 2022-09-07 at 5.44.26 PM.png",
+    "Media/Screen Shot 2022-09-07 at 5.44.23 PM.png",
+    "Media/Screen Shot 2022-09-07 at 5.44.19 PM.png",
+    "Media/Screen Shot 2022-09-07 at 5.43.26 PM.png",
+    "Media/Screen Shot 2022-09-07 at 5.44.31 PM.png",
+    "CSCI 1730/Why Racket?.md"
   ]
 }

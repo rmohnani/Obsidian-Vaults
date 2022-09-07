@@ -4,6 +4,8 @@
 
 16:29 - Installed [Stacker](https://github.com/LuKC1024/stacker)
 16:31 - Installed [SMoL family of languages](https://github.com/shriram/smol)
+17:56 - Finished Scope
+
 
 # Tasks
 
@@ -131,3 +133,117 @@ Here the Blocks are:
 ```
 
 This returns 3. Because `y` is defined before the function call, this executes fine, because the top level environment has a definition for `y`. 
+
+```racket
+#lang stacker/smol/fun
+
+(defvar y 100)
+(deffun (addy x)
+  (defvar y 200)
+  (+ x y))
+(addy 2)
+
+```
+
+> [!important] 
+> If a variable is defined in both the function body and the top level block, the function body block takes precedence in deciding the value to use. Variables can only use definitions in their block or super-blocks, they cannot look into sub blocks. If no valid variable definition is found it returns `error`
+
+For example a variable used in the top level block can only use a top level definition and cannot use the definition in any sub block
+
+```racket
+(defvar x 1)
+(deffun (main)
+  (defvar x 2)
+  (deffun (get-x) x)
+  (get-x))
+
+(main)
+```
+
+Returns 2, because get-x is defined inside main block in which the value of x is 2.
+
+```racket
+(defvar x 1)
+(deffun (get-x) x)
+
+(deffun (main)
+  (defvar x 2)
+  (get-x))
+(main)
+```
+
+Returns 1 because get-x is defined in top level block where x is defined to be 1.
+
+**When we see a variable reference, how do we find the corresponding declaration, if any?**
+
+ - We look first in its block, and then in super blocks until we hit the top level block, at which point if no declaration is found we error.
+
+> [!important] 
+> We find the declaration by looking in a series of blocks. We start with the block in which the variable reference occurs. If the variable is declared in the current block, we use that declaration. Otherwise, we look up the block in which the current block occurs, and so on recursively. (Specifically, if the current block is a function body, the next block will be the block in which the function definition is; if the current block is the top-level block, the next block will be the _primordial block_.) If the current block is already the primordial block and we still haven't found a corresponding declaration, the variable is unbound.
+
+> [!important] 
+> The primordial block is a non-visible block enclosing the top-level block. This block defines values and functions (e.g., `+` and `/`) that are provided by the language itself.
+
+```racket
+#lang stacker/smol/fun
+
+(defvar x 1)
+(defvar x 2)
+x
+
+```
+
+> [!error] 
+> This returns `error`. It is an error to define a variable twice within a single block.
+
+The most recent value isn't used as in other languages.
+
+```racket
+(deffun (f x x)
+  (+ x x))
+(f 1 2)
+```
+
+Because x is used twice in the function body block
+
+### Running in DrRacket
+```racket
+(defvar x 1)
+(deffun (get-x) x)
+
+(deffun (main)
+  (defvar x 2)
+  (get-x))
+(main)
+```
+
+![[Screen Shot 2022-09-07 at 5.43.26 PM.png | 400]]
+![[Screen Shot 2022-09-07 at 5.43.40 PM.png | 400]]
+
+![[Screen Shot 2022-09-07 at 5.44.19 PM.png | 400]]
+
+![[Screen Shot 2022-09-07 at 5.44.23 PM.png | 400]]
+
+![[Screen Shot 2022-09-07 at 5.44.26 PM.png | 400]]
+
+![[Screen Shot 2022-09-07 at 5.44.29 PM.png | 400]]
+
+![[Screen Shot 2022-09-07 at 5.44.31 PM.png | 400]]
+
+## Task 2: [Order](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=order&userId=rohit_mohnani)
+
+> [!note] 
+> for arithmetic operators like `+`, `-`, `/`, `*` they come before the values they operate on. The syntax is `(operator first_val second_val)`. The operation then performed is first_val operation second_val.
+
+```racket
+(defvar x (/ 1 0))
+42
+```
+
+> [!important] 
+> When you define a variable (in this case, `x`), you have to bind it to a value, no matter whether or not you need the value of that variable later in the program. 
+
+The program errors when it tries to evaluate `(/ 1 0)`.
+
+
+
