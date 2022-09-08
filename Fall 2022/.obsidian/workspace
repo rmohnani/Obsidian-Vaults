@@ -7,9 +7,11 @@
         "id": "c80d46f1632d636a",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanbans/Everything Kanban.md"
+            "file": "CSCI 1730/Homeworks/SMoL - Scope, Order.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "CSCI 1730/Homeworks/SMoL - Scope, Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "CSCI 1730/Homeworks/SMoL - Scope, Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbans/Everything Kanban.md"
+                "file": "CSCI 1730/Homeworks/SMoL - Scope, Order.md"
               }
             }
           },
@@ -136,6 +138,7 @@
   },
   "active": "c80d46f1632d636a",
   "lastOpenFiles": [
+    "Kanbans/Everything Kanban.md",
     "CSCI 1730/Homeworks/SMoL - Scope, Order.md",
     "Screen Shot 2022-09-07 at 5.43.26 PM.png (width = 50%).md",
     "Media/Screen Shot 2022-09-07 at 5.43.40 PM.png",
@@ -144,7 +147,6 @@
     "Media/Screen Shot 2022-09-07 at 5.44.23 PM.png",
     "Media/Screen Shot 2022-09-07 at 5.44.19 PM.png",
     "Media/Screen Shot 2022-09-07 at 5.43.26 PM.png",
-    "Media/Screen Shot 2022-09-07 at 5.44.31 PM.png",
-    "CSCI 1730/Why Racket?.md"
+    "Media/Screen Shot 2022-09-07 at 5.44.31 PM.png"
   ]
 }
