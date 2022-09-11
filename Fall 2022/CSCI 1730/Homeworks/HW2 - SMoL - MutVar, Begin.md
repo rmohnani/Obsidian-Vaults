@@ -28,6 +28,23 @@ Here `set!` changes the binding of x only, because y is bound to the evaluation 
 > 1.  Which variable (if any) a `set!` mutates is dictated by scope.
 > 2.  Using `set!` to mutate a variable (e.g., `y`) won’t mutate the binding of other variables (e.g., `x`), no matter how the definition of the first variable is related to the second variable (e.g., given `(defvar y x)`, mutating either `x` or `y` will not mutate the other).
 
+> [!important] 
+> -   `defvar` creates new bindings.
+> - `set!` mutates existing bindings.
+> - Referring to a variable gives the value that the variable is bound to at that moment.
+> - Function calls are similar to `defvar`. They bind the formal parameters (the names) with the actual parameters (the argument values).
+
+
+## Task 2: [Begin](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=begin&userId=rohit_mohnani)
+> [!note] 
+> `begin` lets you evaluate a sequence of expressions and returns the value of the last expression.
+> A `begin` expression evaluates its sub-expressions from left to right and produces the value of the right-most expression.
+
+> [!important] 
+> `(if cnd thn els)` evaluates `cnd`. If the evaluation produces a true value, `thn` is evaluated in place of the whole `if` expression. Otherwise, `els` is evaluated.
+> Giving `if` too few or too many subexpressions is a syntactic error.
+
+
 
 
 
