@@ -39,6 +39,8 @@ Here `set!` changes the binding of x only, because y is bound to the evaluation 
 > [!note] 
 > `begin` lets you evaluate a sequence of expressions and returns the value of the last expression.
 > A `begin` expression evaluates its sub-expressions from left to right and produces the value of the right-most expression.
+> `begin` computes its sub-expressions in top-to-bottom, left-to-right order, and gives the value of the last expression.
+ 
 
 > [!important] 
 > `(if cnd thn els)` evaluates `cnd`. If the evaluation produces a true value, `thn` is evaluated in place of the whole `if` expression. Otherwise, `els` is evaluated.
