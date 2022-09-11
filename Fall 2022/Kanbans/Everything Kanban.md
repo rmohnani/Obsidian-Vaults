@@ -12,7 +12,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] [[HW2 - SMoL - MutVar, Begin]]
 
 
 ## Completed
@@ -24,6 +23,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] 2022-09-10 Sat 21:41  -  [[HW2 - SMoL - MutVar, Begin]]
 - [x] 2022-09-10 Sat 20:46  -  CSCI 1730 - [[HW1 - Mystery Language - Arithmetic]]
 - [x] 2022-09-08 Thu 01:09  -  CSCI 1730 - Environment Setup
 - [x] 2022-09-07 Wed 19:00  -  CSCI 1730 - [[HW1 - SMoL - Scope, Order]]
