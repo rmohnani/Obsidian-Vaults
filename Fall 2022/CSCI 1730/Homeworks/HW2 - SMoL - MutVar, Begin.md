@@ -24,6 +24,10 @@ y
 
 Here `set!` changes the binding of x only, because y is bound to the evaluation of x which is 12 not x itself, so when x is changed y isn't.
 
+> [!important] 
+> 1.  Which variable (if any) a `set!` mutates is dictated by scope.
+> 2.  Using `set!` to mutate a variable (e.g., `y`) won’t mutate the binding of other variables (e.g., `x`), no matter how the definition of the first variable is related to the second variable (e.g., given `(defvar y x)`, mutating either `x` or `y` will not mutate the other).
+
 
 
 
