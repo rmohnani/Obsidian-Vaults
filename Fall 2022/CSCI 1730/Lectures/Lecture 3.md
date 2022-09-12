@@ -24,6 +24,6 @@ sequential (evaluate expression to completion) or parallel in that it evaluates 
 SMoL is sequential and eager and left-to-right
 evaluation is a tree traversal
 
-
+racket is a compiler that generates code into the program to be able to return whats going on
 
 
