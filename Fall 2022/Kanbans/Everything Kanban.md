@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] Make [[Lecture Template]]
 - [ ] Make [[Homework Template]]
-- [ ] [[HW3 - SMoL - MutVec 1,2 & Heap Structure]]
 - [ ] PHYS 1410 - HW1
 - [ ] Chinese Political Thought readings
 - [ ] Politics and the Psyche readings
@@ -30,6 +29,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] 2022-09-12 Mon 13:33  -  [[HW3 - SMoL - MutVec 1,2 & Heap Structure]]
 - [x] 2022-09-10 Sat 21:41  -  [[HW2 - SMoL - MutVar, Begin]]
 - [x] 2022-09-10 Sat 20:46  -  CSCI 1730 - [[HW1 - Mystery Language - Arithmetic]]
 - [x] 2022-09-08 Thu 01:09  -  CSCI 1730 - Environment Setup
