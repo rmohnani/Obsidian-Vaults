@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md",
+            "file": "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md",
+                "file": "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md",
+                "file": "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md"
+                "file": "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "c80d46f1632d636a",
   "lastOpenFiles": [
-    "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md",
     "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md",
+    "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md",
     "Kanbans/Everything Kanban.md",
     "CSCI 1730/Homeworks/HW3 - SMoL - MutVec 1,2 & Heap Structure.md",
     "CSCI 1730/Lectures/Lecture 3.md",
