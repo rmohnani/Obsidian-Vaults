@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Write Since the Beginning
 - [ ] Write A thing that cannot be stopped
 - [ ] Write Magic to Make the Sanest Man go Mad
 - [ ] Select stuff to buy from buy tab group on iphone
@@ -27,6 +26,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] Write Since the Beginning
 - [x] Fix Mama's Bhajan pendrive
 - [x] Fix Mama's Bhajan pendrive
 - [x] Send eye prescription to Warby Parker
