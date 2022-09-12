@@ -8,6 +8,13 @@ kanban-plugin: basic
 
 - [ ] Make [[Lecture Template]]
 - [ ] Make [[Homework Template]]
+- [ ] [[HW3 - SMoL - MutVec 1,2 & Heap Structure]]
+- [ ] PHYS 1410 - HW1
+- [ ] Chinese Political Thought readings
+- [ ] Politics and the Psyche readings
+- [ ] Politics and the Psyche email prof to be added to waitlist
+- [ ] email Janet for tutoring
+- [ ] Compile club list and populate gcal
 
 
 ## In Progress
