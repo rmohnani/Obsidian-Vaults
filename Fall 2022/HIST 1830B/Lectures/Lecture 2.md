@@ -21,3 +21,17 @@ Empires are multinantional, multilinguistic, multi religious, geopolitically com
 
 Partnership between the nation states. State meaning unit of government administration - the exclusive control of legal violence. 
 As european political system develops into the 19th cnetury we have consolidation of nation states. 
+
+Sigmund freud born in 1856. Born right into liberal ascendancy. Studies to be a doctor. in 1880s and 1890s the optimisim of that liberal period is cracking. In 1890s the election of antisemmitic mayor fo Vienna. Had a great deal of power. 
+
+Antisemitsims is a political strategy in this case against a people that don't classically fit into the political power dynamic/narrative. A more racial antisemmitism also began. 
+
+"I decide who is a Jew" - mayor of vienna quote
+
+For freud this is the end of plurality of multiculturalism. When it's ratified by the emperor is a terrible day for Freud. And it happens almost to the day he came up with psychoanalysis and interpretations of dreams.
+
+Liberalism meaning open society the ability for everyone to participate in it. Thinks of itself as the inheritance of the long developments associated with the scientific revolution and the enlightenment of the 18th century. Science meaning specialized and d general knowledge.
+The freedom of discovery of the universe from the authority of the church, and enlightenment freed certain forms of thought from existing powers.
+
+Liberalism is connected with reason, thinking openly and clearly observation and reason. Meritocracy. 
+

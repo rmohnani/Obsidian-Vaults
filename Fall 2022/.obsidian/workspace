@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HIST 1830B/Lectures/Lecture 2.md",
+            "file": "POLS 1821R/Lectures/Lecture 1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIST 1830B/Lectures/Lecture 2.md",
+                "file": "POLS 1821R/Lectures/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIST 1830B/Lectures/Lecture 2.md",
+                "file": "POLS 1821R/Lectures/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIST 1830B/Lectures/Lecture 2.md"
+                "file": "POLS 1821R/Lectures/Lecture 1.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "c80d46f1632d636a",
   "lastOpenFiles": [
+    "HIST 1830B/Lectures/Lecture 2.md",
     "HIST 1101/Lectures/Lecture 2.md",
     "CSCI 1730/Homeworks/HW1 - Mystery Language - Arithmetic.md",
     "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md",
@@ -147,7 +148,6 @@
     "CSCI 1730/Lectures/Lecture 3.md",
     "CSCI 1730/Homeworks/HW1.5 - SMoL - More Scope.md",
     "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md",
-    "CSCI 1730/Homeworks/HW1 - SMoL - Scope, Order.md",
-    "CSCI 1730/Lectures/Lecture 2.md"
+    "CSCI 1730/Homeworks/HW1 - SMoL - Scope, Order.md"
   ]
 }
