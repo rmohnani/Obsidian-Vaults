@@ -20,4 +20,4 @@ Book - imagined community
 Empires are multinantional, multilinguistic, multi religious, geopolitically complex, politically complex with relationships between imperial/hegemonic power at the center and the periphery. Also potentially including colonial body on the outside. 
 
 Partnership between the nation states. State meaning unit of government administration - the exclusive control of legal violence. 
-As european political system develops into the 19th cnetury w
+As european political system develops into the 19th cnetury we have consolidation of nation states. 
