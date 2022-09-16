@@ -4,7 +4,7 @@
 12:48 - start lambda 2
 13:09 - finished lambda 2
 15:36 - start lambda 3
-
+15:56 - finished lambda 3
 
 # Tasks
 ## Task 1: [Lambda 1](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=lambda1&userId=rohit_mohnani)
@@ -40,6 +40,8 @@
 > [!note] 
 > `(deffun (f x ...) body)` is a shorthand for `(defvar f (lambda (x ...) body))`
 
+
+## Task 4: [Let](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=local&userId=rohit_mohnani)
 
 
 
