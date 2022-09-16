@@ -1,6 +1,7 @@
 **[Assignment](https://cs.brown.edu/courses/csci1730/2022/smol.html)**
 
 11:02 - finished lambda 1 in PL now
+12:48 - start lambda 2
 
 
 # Tasks
@@ -24,7 +25,7 @@
 > [!important] 
 > Functions are values. Therefore, variables (notably parameters) can be bound to functions, functions can return functions, and vectors can refer to functions.
 
-
+## Task 2: [Lambda 2](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=lambda2&userId=rohit_mohnani)
 
 
 
