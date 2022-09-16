@@ -2,6 +2,7 @@
 
 11:02 - finished lambda 1 in PL now
 12:48 - start lambda 2
+13:09 - finished lambda 2
 
 
 # Tasks
@@ -29,6 +30,10 @@
 
 > [!note] 
 > Functions remember the environment that they refer to. Function values are called _closures_ because function bodies are enclosed by the environments in which the function values are created.
+
+## Task 3: [Lambda 3](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=lambda3&userId=rohit_mohnani)
+
+
 
 
 
