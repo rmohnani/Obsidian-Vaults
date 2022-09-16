@@ -27,6 +27,9 @@
 
 ## Task 2: [Lambda 2](https://script.google.com/a/macros/brown.edu/s/AKfycbyOWF819avuY6uh0PlP-GAVNCZc0xHucUuzgaJD8ZLng5b329uzM2jVsN1zJGMyk5PAgQ/exec?tutorial=lambda2&userId=rohit_mohnani)
 
+> [!note] 
+> Functions remember the environment that they refer to. Function values are called _closures_ because function bodies are enclosed by the environments in which the function values are created.
+
 
 
 
