@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md",
+            "file": "CSCI 1730/Homeworks/HW8 - Analysis - Loops.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md",
+                "file": "CSCI 1730/Homeworks/HW8 - Analysis - Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md",
+                "file": "CSCI 1730/Homeworks/HW8 - Analysis - Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md"
+                "file": "CSCI 1730/Homeworks/HW8 - Analysis - Loops.md"
               }
             }
           },
@@ -139,9 +139,9 @@
   },
   "active": "c80d46f1632d636a",
   "lastOpenFiles": [
+    "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md",
     "CSCI 1730/Homeworks/HW5 - SMoL - Lambda 1,2,3 & Local.md",
     "CSCI 1730/Homeworks/HW4 - SMoL - Stacks 1.md",
-    "CSCI 1730/Homeworks/HW2 - SMoL - MutVar, Begin.md",
     "CSCI 1730/Homeworks/HW3 - Mystery Language - Conditionals.md",
     "CSCI 1730/Homeworks/HW3 - SMoL - MutVec 1,2 & Heap Structure.md",
     "CSCI 1730/Homeworks/HW7 - SMoL - Stacks 2.md",
