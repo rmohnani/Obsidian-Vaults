@@ -10,7 +10,6 @@ kanban-plugin: basic
 - [ ] Write Magic to Make the Sanest Man go Mad
 - [ ] Select stuff to buy from buy tab group on iphone
 - [ ] Cleanup iphone (delete unnecessary apps, etc)
-- [ ] Order my Apple pencil
 
 
 ## In Progress
@@ -26,6 +25,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] Order my Apple pencil
 - [x] Write Since the Beginning
 - [x] Fix Mama's Bhajan pendrive
 - [x] Fix Mama's Bhajan pendrive
