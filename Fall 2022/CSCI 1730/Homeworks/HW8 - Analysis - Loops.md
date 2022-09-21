@@ -73,4 +73,11 @@ Try your best to explain what might be going on behind the scenes that causes th
 For Python it seems like the `i` passed to the print statement in the lambda function is not evaluated and passed by value, but is instead passed by reference. So that when i changes
 and we create a new lambda for a new button, the i in the old lambdas also change or at least are not evaluated yet. This until we exit the for loop and i goes out of scope so that they need to be evaluated. Right before i goes out of scope it has the value 9, so all the lambdas evaluate i to 9, so when the buttons are called we get 9s.
 
-For Java we get an error regarding the local variable i passed to the Button lambda function. 
+For Java we get an error regarding the local variable i passed to the Button lambda function. The error is that `i` should be 'final' or 'effectively final'. 'final' just means the value should be fixed/unmutable or at least 'effectively final' meaning even if it can be mutated it is not. So Java is also doing something similar to python in passing by reference the `i` that is changing in the for loop. But since `i` is changing it raises this error to alert the user, that this won't do what the user was intending.
+
+For Racket, it does what we expect it to do. This because it passes the i in the lambda by value, so whatever i is at that moment is evaluated and given to the print in the lambda. So i is changing in the for loop but, a local copy for i is created with its evaluation in each lambda that is independent from the i that is being looped over. So this prints 0 through 9 as we intend and expect.
+
+## Q2 - Tweet
+![[Pasted image 20220921170727.png]]
+
+When we perform the * 2 operation, it is essentially copying the emtpy dictionary in the 0th index and placing this copy in the 1st index, to effectively 'double' d. However these empty dictionaries are referencing the same dictionary object, so modifications in 1, will be represented when looked at the other, in almost a form of aliasing. Which is why modifying the right dict overwrites the modification to the left dict since it is performed last, and the modification is visible in both dicts. 
