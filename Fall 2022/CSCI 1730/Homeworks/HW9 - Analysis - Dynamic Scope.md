@@ -9,7 +9,9 @@ The Stacker uses color coding to distinguish between the different types of thin
 
 I wonder whether all the environment numbers are accurate to how the computer actually creates and organizes its various environments or whether they are just random abstractions to contextualize how environments are related to each other. I also wonder whether functions are actually stored in a different manner or whether that's just a visual distinction to help the user better organize and separate what's going on. I also wonder all variables are initialize to some 'bad-value' similar to bomb or whether they are unbinded and the bomb is again a visual choice. 
 
+![[Screen Shot 2022-09-25 at 5.57.06 PM.png]]
 
+The Python Tutor makes two broad separations in whats going on in program execution. One side is frames which are the environments in which execution is taking place. The other side is objects, which include functions among other things. Python tutor has all the variables inside the frame in which they are created, it also has arrows to point from some variable to either an object.
 
 # Task 2: [Dynamic Scope](https://cs.brown.edu/courses/csci1730/2022/dyn-scope.html)
 
