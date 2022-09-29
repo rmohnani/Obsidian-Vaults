@@ -21,6 +21,10 @@ kanban-plugin: basic
 - [ ] PHYS 1410 Lecture 8 Watch & Notes
 - [ ] PHYS 1410 Lecture 9 Watch & Notes
 - [ ] PHYS 1410 Lecture 10 Watch & Notes
+- [ ] CSCI 1730 Semantics chapter & questions
+- [ ] CSCI 1730 [[HW11 - Analysis - WAT]]
+- [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
+- [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Tests)]]
 
 
 ## In Progress
