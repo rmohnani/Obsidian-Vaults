@@ -12,12 +12,12 @@ kanban-plugin: basic
 - [ ] Compile club list and populate gcal
 - [ ] PHYS 1530 Chapter 1.4-1.7 Notes
 - [ ] PHYS 1530 Chapter 2 Notes
-- [ ] PHYS 1530 HW 2
 - [ ] PHYS 1410 Chapter 2 Notes
 - [ ] PHYS 1410 Lecture 7 Watch & Notes
 - [ ] PHYS 1410 Lecture 8 Watch & Notes
 - [ ] PHYS 1410 Lecture 9 Watch & Notes
 - [ ] PHYS 1410 Lecture 10 Watch & Notes
+- [ ] PHYS 1410 Lecture 11 Watch & Notes
 - [ ] PHYS 1410 HW 3
 - [ ] PHYS 1530 HW 3
 - [ ] CSCI 1730 Semantics chapter & questions
@@ -34,6 +34,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] CSCI 1730 Lecture 6 - 10 watch
+- [x] PHYS 1530 HW 2
 
 
 ***
