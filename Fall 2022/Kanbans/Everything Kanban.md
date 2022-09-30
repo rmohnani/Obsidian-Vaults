@@ -10,7 +10,6 @@ kanban-plugin: basic
 - [ ] Make [[Homework Template]]
 - [ ] email Janet for tutoring
 - [ ] Compile club list and populate gcal
-- [ ] CSCI 1730 Lecture 6 - 10 watch
 - [ ] PHYS 1530 Chapter 1.4-1.7 Notes
 - [ ] PHYS 1530 Chapter 2 Notes
 - [ ] PHYS 1530 HW 2
@@ -29,6 +28,12 @@ kanban-plugin: basic
 
 ## In Progress
 
+
+
+## Completed
+
+**Complete**
+- [x] CSCI 1730 Lecture 6 - 10 watch
 
 
 ***
