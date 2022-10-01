@@ -21,13 +21,14 @@ kanban-plugin: basic
 - [ ] PHYS 1410 HW 3
 - [ ] PHYS 1530 HW 3
 - [ ] CSCI 1730 Semantics chapter & questions
-- [ ] CSCI 1730 [[HW11 - Analysis - WAT]]
 - [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
 - [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Tests)]]
+- [ ] CSCI 1730 Lecture 11 watch
 
 
 ## In Progress
 
+- [ ] CSCI 1730 [[HW11 - Analysis - WAT]]
 
 
 ## Completed
