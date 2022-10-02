@@ -40,4 +40,22 @@ Apparently this is because the Cpython implementation keeps the first 256 intege
 
 # Example 3
 
-Language: 
+Language: Javascript
+
+Program: 
+```javascript
+console.log("55" + [2, "3", null]);
+console.log([1] + [2,3,4]);
+console.log([1, 2, 3] + [2,3,4]);
+```
+
+Returns
+```
+552,3,
+12,3,4
+1,2,32,3,4
+```
+
+Interesting:
+
+Its interesting that whenever we have something like a string, a number, or another array added to an array, whatever the last item in that first object is, is simply prepended to the first item of the array we're adding to it. We see that in the first one 55 is prepended to 2 (the first item in the array), while the rest are unchanged. Same for when we have a list of 1 element and a list of multiple elements has the last element 3 prepended to 2 (the first element) in the second array. Which is all WAT, it should just throw an error for mismatching types because there is no reasonable way to define said interactions and thus shouldn't even be permitted.
