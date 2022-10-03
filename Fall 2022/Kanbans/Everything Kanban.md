@@ -28,7 +28,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] CSCI 1730 [[HW11 - Analysis - WAT]]
 
 
 ## Completed
@@ -36,6 +35,7 @@ kanban-plugin: basic
 **Complete**
 - [x] CSCI 1730 Lecture 6 - 10 watch
 - [x] PHYS 1530 HW 2
+- [x] CSCI 1730 [[HW11 - Analysis - WAT]]
 
 
 ***
