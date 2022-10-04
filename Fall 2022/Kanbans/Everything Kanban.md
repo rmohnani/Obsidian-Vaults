@@ -40,6 +40,7 @@ kanban-plugin: basic
 - [x] CSCI 1730 Lecture 12 watch
 - [x] PHYS 1410 Lecture 9 Watch & Notes
 - [x] PHYS 1410 Lecture 10 Watch & Notes
+- [x] CSCI 1730 - Mystery Languages - Fields
 
 
 ***
