@@ -16,7 +16,6 @@ kanban-plugin: basic
 - [ ] PHYS 1410 Lecture 11 Watch & Notes
 - [ ] PHYS 1530 HW 3
 - [ ] CSCI 1730 Semantics chapter & questions
-- [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
 - [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Tests)]]
 - [ ] PHYS 1410 Lecture 12 watch
 - [ ] POLS Readings do
@@ -25,7 +24,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] PHYS 1410 Lecture 10 Watch & Notes
+- [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
 
 
 ## Completed
@@ -40,6 +39,7 @@ kanban-plugin: basic
 - [x] CSCI 1730 Lecture 11 watch
 - [x] CSCI 1730 Lecture 12 watch
 - [x] PHYS 1410 Lecture 9 Watch & Notes
+- [x] PHYS 1410 Lecture 10 Watch & Notes
 
 
 ***
