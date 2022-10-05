@@ -10,43 +10,41 @@ kanban-plugin: basic
 - [ ] Make [[Homework Template]]
 - [ ] email Janet for tutoring
 - [ ] Compile club list and populate gcal
-- [ ] PHYS 1530 Chapter 1.4-1.7 Notes
-- [ ] PHYS 1530 Chapter 2 Notes
 - [ ] PHYS 1410 Chapter 2 Notes
-- [ ] PHYS 1530 HW 3
 - [ ] CSCI 1730 Semantics chapter & questions
 - [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Tests)]]
 - [ ] POLS Readings do
 - [ ] CSCI 1730 Read More on Macros
+- [ ] PHYS 1410 Chapter 3 Notes
 
 
 ## In Progress
 
 - [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
-- [ ] PHYS 1410 Lecture 12 watch
 
 
 ## Completed
 
 **Complete**
-- [x] CSCI 1730 Lecture 6 - 10 watch
-- [x] PHYS 1530 HW 2
-- [x] CSCI 1730 [[HW11 - Analysis - WAT]]
-- [x] PHYS 1410 Lecture 7 Watch & Notes
-- [x] PHYS 1410 HW 3
-- [x] PHYS 1410 Lecture 8 Watch & Notes
-- [x] CSCI 1730 Lecture 11 watch
-- [x] CSCI 1730 Lecture 12 watch
-- [x] PHYS 1410 Lecture 9 Watch & Notes
-- [x] PHYS 1410 Lecture 10 Watch & Notes
-- [x] CSCI 1730 - Mystery Languages - Fields
-- [x] PHYS 1410 Lecture 11 Watch & Notes
 
 
 ***
 
 ## Archive
 
+- [x] 2022-10-05 Wed 11:04  -  CSCI 1730 Lecture 6 - 10 watch
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1530 HW 2
+- [x] 2022-10-05 Wed 11:04  -  CSCI 1730 [[HW11 - Analysis - WAT]]
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 Lecture 7 Watch & Notes
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 HW 3
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 Lecture 8 Watch & Notes
+- [x] 2022-10-05 Wed 11:04  -  CSCI 1730 Lecture 11 watch
+- [x] 2022-10-05 Wed 11:04  -  CSCI 1730 Lecture 12 watch
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 Lecture 9 Watch & Notes
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 Lecture 10 Watch & Notes
+- [x] 2022-10-05 Wed 11:04  -  CSCI 1730 - Mystery Languages - Fields
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 Lecture 11 Watch & Notes
+- [x] 2022-10-05 Wed 11:04  -  PHYS 1410 Lecture 12 watch
 - [x] 2022-09-29 Thu 16:32  -  PHYS 1410 - HW1
 - [x] 2022-09-12 Mon 13:33  -  [[HW3 - SMoL - MutVec 1,2 & Heap Structure]]
 - [x] 2022-09-10 Sat 21:41  -  [[HW2 - SMoL - MutVar, Begin]]
