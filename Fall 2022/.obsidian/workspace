@@ -7,9 +7,11 @@
         "id": "c80d46f1632d636a",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanbans/Everything Kanban.md"
+            "file": "CSCI 1730/Homeworks/HW14 - SMoL - OStacks.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "CSCI 1730/Homeworks/HW14 - SMoL - OStacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "CSCI 1730/Homeworks/HW14 - SMoL - OStacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbans/Everything Kanban.md"
+                "file": "CSCI 1730/Homeworks/HW14 - SMoL - OStacks.md"
               }
             }
           },
@@ -149,9 +151,9 @@
   },
   "active": "c80d46f1632d636a",
   "lastOpenFiles": [
+    "Kanbans/Everything Kanban.md",
     "CSCI 1730/Homeworks/HW13 - Implementation - Macros.md",
     "CSCI 1730/Homeworks/HW12 - Mystery Language - Fields.md",
-    "Kanbans/Everything Kanban.md",
     "CSCI 1730/Homeworks/HW11 - Implementation - Interpreter (Code).md",
     "CSCI 1730/Lectures/Lecture 12.md",
     "CSCI 1730/Lectures/Lecture 11.md",
