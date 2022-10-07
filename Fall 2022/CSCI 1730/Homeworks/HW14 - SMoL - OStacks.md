@@ -46,4 +46,20 @@ Run this program through to completion.
 
 4. Trace through the configuration to show why counter behaves like a static.
 
-	
+	Whenever o-static-1 gets called (set! counter (+ 1 counter)) this is the first code that runs in the begin call. We can see the class closure at address 551. Comparing this to the object closures at 324 and 430 we see they are both missing this counter updating code. So whenever we call the class closure on some param to give us an object, we evaluate this counter updating once, meaning for every new object we create we increment counter by 1. and we can see it is static because it is in the same environment as the class closure 1033.
+
+
+# Task 3: Dynamic Dispatch
+
+1.  Provide a screenshot of the configuration at the point where the a-tree object has been initialized and before the method dispatch begins.
+![[Screen Shot 2022-10-07 at 12.55.09 PM.png]]
+2.  In the above configuration, point out which values represent mt and node objects. Do any values here correspond to classes? If so, which one(s) and why?
+
+	Closure 134 represents an mt object, thus l,r in env 1055 and r in env 1356 are bound to mt objects. The node closure corresponds to the node class, because it follows class pattern of some variable set up in a let before returning a lambda (object). Closures 225 and 436 correspond to node objects/instances. Closure 225 corresponds to the node represented in env 1207 which rests at 1055 and tells us (v l r) = (5 mt mt). While closure 436 corresponds to node represented in env 1467 which rests at 1356 and tells us (v l r) = (10 nodeAt225 mt)
+    
+3.  Dynamic dispatch depends on objects having a consistent representation (this is the heart of “object polymorphism”: you can treat them interchangeably, and the differences in behavior are hidden inside the objects). In what way do these objects have a consistent representation?
+
+	The consistent representation is that both node and mt objects have a defined method "sum" and have a variable self that points to the lambda that comprises their object pattern which is what both mt and node objects are then returning. So we can call "sum" on both objects but how a node object implements the sum method vs how an mt object implements the sum method is hidden inside the object. If one of them didn't implement this method, we would not be able to simply call sum, as we'd have to then account for let's say mt not having a sum and thus we'd have to define a function call to do this separate from the classes/objects themselves.
+
+
+    

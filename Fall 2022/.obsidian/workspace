@@ -6,6 +6,7 @@
       {
         "id": "c80d46f1632d636a",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "4165ef960fc7a600",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -149,7 +151,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c80d46f1632d636a",
+  "active": "8593fb3c407446c6",
   "lastOpenFiles": [
     "CSCI 1730/Homeworks/HW11 - Implementation - Interpreter (Code).md",
     "CSCI 1730/Homeworks/HW14 - SMoL - OStacks.md",
