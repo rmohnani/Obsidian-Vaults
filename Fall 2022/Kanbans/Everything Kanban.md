@@ -16,12 +16,13 @@ kanban-plugin: basic
 - [ ] POLS Readings do
 - [ ] CSCI 1730 Read More on Macros
 - [ ] PHYS 1410 Chapter 3 Notes
+- [ ] PHYS 1410 - Watch Lecture 15
+- [ ] PHYS 1410 - Watch Lecture 16
 
 
 ## In Progress
 
 - [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
-- [ ] CSCI 1730 - Watch [[Lecture 17]]
 
 
 ## Completed
@@ -30,6 +31,7 @@ kanban-plugin: basic
 - [x] CSCI 1730 - Watch [[Lecture 14]]
 - [x] CSCI 1730 - Watch [[Lecture 15]]
 - [x] CSCI 1730 - Watch [[Lecture 16]]
+- [x] CSCI 1730 - Watch [[Lecture 17]]
 
 
 ***

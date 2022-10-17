@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI 1730/Lectures/Lecture 17.md",
+                "file": "Kanbans/Everything Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI 1730/Lectures/Lecture 17.md",
+                "file": "Kanbans/Everything Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI 1730/Lectures/Lecture 17.md"
+                "file": "Kanbans/Everything Kanban.md"
               }
             }
           },
@@ -147,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9f54e8d96f12149",
+  "active": "0c16c9bd9b21ce59",
   "lastOpenFiles": [
-    "CSCI 1730/Lectures/Lecture 16.md",
     "CSCI 1730/Lectures/Lecture 17.md",
+    "CSCI 1730/Lectures/Lecture 16.md",
     "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lectures/Lecture 15.md",
     "CSCI 1730/Lectures/Lecture 14.md",
