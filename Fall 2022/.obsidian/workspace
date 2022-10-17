@@ -7,9 +7,11 @@
         "id": "0c16c9bd9b21ce59",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanbans/Everything Kanban.md"
+            "file": "Nietzche/Weekly essay 4.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "Nietzche/Weekly essay 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbans/Everything Kanban.md",
+                "file": "Nietzche/Weekly essay 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbans/Everything Kanban.md"
+                "file": "Nietzche/Weekly essay 4.md"
               }
             }
           },
@@ -137,8 +139,8 @@
   },
   "active": "0c16c9bd9b21ce59",
   "lastOpenFiles": [
-    "CSCI 1730/Lectures/Lecture 17.md",
     "Kanbans/Everything Kanban.md",
+    "CSCI 1730/Lectures/Lecture 17.md",
     "CSCI 1730/Lectures/Lecture 16.md",
     "CSCI 1730/Lectures/Lecture 15.md",
     "CSCI 1730/Lectures/Lecture 14.md",
