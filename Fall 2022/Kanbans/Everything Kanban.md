@@ -12,32 +12,39 @@ kanban-plugin: basic
 - [ ] Compile club list and populate gcal
 - [ ] PHYS 1410 Chapter 2 Notes
 - [ ] CSCI 1730 Semantics chapter & questions
-- [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Tests)]]
 - [ ] POLS Readings do
 - [ ] CSCI 1730 Read More on Macros
 - [ ] PHYS 1410 Chapter 3 Notes
-- [ ] PHYS 1410 - Watch Lecture 15
-- [ ] PHYS 1410 - Watch Lecture 16
+- [ ] CSCI 1730 - Lecture 19 Watch
+- [ ] PHYS 1410 - Watch Lecture 19
+- [ ] PHYS 1410 - HW 4
+- [ ] Readings for POLS 1821R and Presentation
+- [ ] Midterm essay for PHIL 1340
+- [ ] POLS 1821R paragraph on paper topic
+- [ ] Take Home essay on POLS 1821R
 
 
 ## In Progress
 
-- [ ] CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
 
 
 ## Completed
 
 **Complete**
-- [x] CSCI 1730 - Watch [[Lecture 14]]
-- [x] CSCI 1730 - Watch [[Lecture 15]]
-- [x] CSCI 1730 - Watch [[Lecture 16]]
-- [x] CSCI 1730 - Watch [[Lecture 17]]
 
 
 ***
 
 ## Archive
 
+- [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 14]]
+- [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 15]]
+- [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 16]]
+- [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 17]]
+- [x] 2022-10-20 Thu 03:01  -  PHYS 1410 - Watch Lecture 15
+- [x] 2022-10-20 Thu 03:01  -  CSCI 1730 [[HW11 - Implementation - Interpreter (Code)]]
+- [x] 2022-10-20 Thu 03:01  -  CSCI 1730 [[HW11 - Implementation - Interpreter (Tests)]]
+- [x] 2022-10-20 Thu 03:01  -  PHYS 1410 - Watch Lecture 16
 - [x] 2022-10-05 Wed 11:04  -  CSCI 1730 Lecture 6 - 10 watch
 - [x] 2022-10-05 Wed 11:04  -  PHYS 1530 HW 2
 - [x] 2022-10-05 Wed 11:04  -  CSCI 1730 [[HW11 - Analysis - WAT]]

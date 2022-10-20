@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "099677bd8f9ed901",
+    "type": "split",
+    "children": [
+      {
+        "id": "92f44a9a39a2f288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c16c9bd9b21ce59",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbans/Everything Kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e22da1eccb236e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "7876438a69c65301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8593fb3c407446c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91b8db53aa4c5184",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cba773d60e4cdcc2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a8b10654efe5e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e581f500b0efcd62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361d7c49a888356c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanbans/Everything Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96027a92302c3f93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanbans/Everything Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92c7b97864ab1dbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e814ae9e2f179e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanbans/Everything Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "b9fb4924ea672bc4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0c16c9bd9b21ce59",
+  "lastOpenFiles": [
+    "CSCI 1730/Lectures/Lecture 18.md",
+    "CSCI 1730/Lectures/Lecture 16.md",
+    "CSCI 1730/Lectures/Lecture 17.md",
+    "Nietzche/Weekly essay 4.md",
+    "Kanbans/Everything Kanban.md",
+    "CSCI 1730/Lectures/Lecture 15.md",
+    "CSCI 1730/Lectures/Lecture 14.md",
+    "CSCI 1730/Lectures/Lecture 13.md",
+    "CSCI 1730/Lectures/Lecture 12.md",
+    "Nietzche/Weekly Essay 2.md"
+  ]
+}
