@@ -1,0 +1,7 @@
+
+- Using example of Nauru for phosphate mining exploitation, begins argument by saying that international law has legitimized colonial exploitation and made it difficult to argue any claims for colonial reparations.
+- 'Third World Sovereignty' was limited and had disadvantages compared to the west
+- colonialism central to international law and infact sovereignty emerged out of colonial encounters. Out of the need to create a legal syste to account for european to non-european relations in confrontation.
+- He looks at the civilizing mission - grand project which justified colonialism as a meands of redeeming the backward, aberrant, violent, oppressed, undeveloped people of non-european worlds by incroporating them into the european civilization system.
+- 'dynamic of difference' denotes the process of demarcating one culture as universal and civilized and another as particular and uncivilized and thus bridging this gap involves 'normalizing' the aberrant society
+- some international lawyers argue that Intl law came to colonies fully formed and ready for use.
