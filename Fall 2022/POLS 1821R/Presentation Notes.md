@@ -1,6 +1,6 @@
 
 - Using example of Nauru for phosphate mining exploitation, begins argument by saying that international law has legitimized colonial exploitation and made it difficult to argue any claims for colonial reparations.
-- 'Third World Sovereignty' was limited and had disadvantages compared to the west
+- 'Third World Sovereignty' was limited and had disadvantages compared to the west, it was made uniquely vulnerable and dependent by intl law.
 - colonialism central to international law and infact sovereignty emerged out of colonial encounters. Out of the need to create a legal syste to account for european to non-european relations in confrontation.
 - He looks at the civilizing mission - grand project which justified colonialism as a meands of redeeming the backward, aberrant, violent, oppressed, undeveloped people of non-european worlds by incroporating them into the european civilization system.
 - 'dynamic of difference' denotes the process of demarcating one culture as universal and civilized and another as particular and uncivilized and thus bridging this gap involves 'normalizing' the aberrant society
@@ -9,4 +9,7 @@
 - axiomatic framework in which European states are sovereign and everyone else is not, the history of the world involves the incorporation of Africa, Asia, etc, into an International Law that is explicitly european but somehow Universal.
 - incorporation he argues is debilitating and excluding rather than empowering and liberating
 - "Cultural difference" is what forces us to tackle the order among states.
+- What does it mean that international law governs states when certain states were denied sovereign status?
+- Many third world jurists attempted to show some fundamental principles of international law like treaties and equity were found in african and eastern statecraft - not unique to the west. -> used to imply certain principles regarding the character and exercise of authority
+- classical intl law denounced as product of imperialism 
 - 

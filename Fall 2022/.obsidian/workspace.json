@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd1c6b60d889fb65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nietzche/Weekly Essay 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POLS 1821R/Paper Topic Proposal.md",
+                "file": "Nietzche/Weekly Essay 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POLS 1821R/Paper Topic Proposal.md",
+                "file": "Nietzche/Weekly Essay 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POLS 1821R/Paper Topic Proposal.md"
+                "file": "Nietzche/Weekly Essay 5.md"
               }
             }
           },
@@ -171,8 +183,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b89f3e228b0f1b3b",
+  "active": "cd1c6b60d889fb65",
   "lastOpenFiles": [
+    "POLS 1821R/Paper Topic Proposal.md",
     "POLS 1821R/Presentation Notes.md",
     "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lectures/Lecture 18.md",
@@ -181,7 +194,6 @@
     "Nietzche/Weekly essay 4.md",
     "CSCI 1730/Lectures/Lecture 15.md",
     "CSCI 1730/Lectures/Lecture 14.md",
-    "CSCI 1730/Lectures/Lecture 13.md",
-    "CSCI 1730/Lectures/Lecture 12.md"
+    "CSCI 1730/Lectures/Lecture 13.md"
   ]
 }
