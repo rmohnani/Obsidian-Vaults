@@ -5,3 +5,8 @@
 - He looks at the civilizing mission - grand project which justified colonialism as a meands of redeeming the backward, aberrant, violent, oppressed, undeveloped people of non-european worlds by incroporating them into the european civilization system.
 - 'dynamic of difference' denotes the process of demarcating one culture as universal and civilized and another as particular and uncivilized and thus bridging this gap involves 'normalizing' the aberrant society
 - some international lawyers argue that Intl law came to colonies fully formed and ready for use.
+-  SIDE NOTE: Intl Law not law cuz it doesnt originate from a single global sovereign
+- axiomatic framework in which European states are sovereign and everyone else is not, the history of the world involves the incorporation of Africa, Asia, etc, into an International Law that is explicitly european but somehow Universal.
+- incorporation he argues is debilitating and excluding rather than empowering and liberating
+- "Cultural difference" is what forces us to tackle the order among states.
+- 

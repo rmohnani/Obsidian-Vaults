@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b89f3e228b0f1b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POLS 1821R/Paper Topic Proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md",
+                "file": "POLS 1821R/Paper Topic Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md",
+                "file": "POLS 1821R/Paper Topic Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md"
+                "file": "POLS 1821R/Paper Topic Proposal.md"
               }
             }
           },
@@ -159,8 +171,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c9d4b037f822fbdf",
+  "active": "b89f3e228b0f1b3b",
   "lastOpenFiles": [
+    "POLS 1821R/Presentation Notes.md",
     "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lectures/Lecture 18.md",
     "CSCI 1730/Lectures/Lecture 16.md",
@@ -169,7 +182,6 @@
     "CSCI 1730/Lectures/Lecture 15.md",
     "CSCI 1730/Lectures/Lecture 14.md",
     "CSCI 1730/Lectures/Lecture 13.md",
-    "CSCI 1730/Lectures/Lecture 12.md",
-    "Nietzche/Weekly Essay 2.md"
+    "CSCI 1730/Lectures/Lecture 12.md"
   ]
 }
