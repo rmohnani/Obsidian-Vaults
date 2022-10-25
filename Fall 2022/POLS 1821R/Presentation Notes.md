@@ -67,3 +67,7 @@
 - natives were often indifferent to othe prospect of amassing large amounts of wealth and engaging in the sort of consumer behavior that would create large markets for goods from the colonial centre. But the forces of international capital development was transforming these societies.
 - Native chiefs effectively became salaried officials using native institutions for collection that undermine native political institution ad raised revenues. Shift from tradition yielded 'free labour’  meaning more labour existed to meet the needs of the large infrastructure projects being undertaken at the time
 - the native was spoken for by the mandatory power
+- in seeking to liberate the mandate peoples from the 'strenuous conditions of the modern world' the system instead entraps the mandate peoples within those conditions
+- cycle whereby international institutions present themselves as a solution to the problem of they are an integral part.
+- The transference of sovereignty to non-European peoples as undertaken by the Mandate system was simultaneous with, and indeed inseparable from the creation of new systems of subordination and control adminstered y internatinal institutions
+- 
