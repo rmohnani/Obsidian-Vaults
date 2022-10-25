@@ -17,4 +17,36 @@
 
 - By the conclusion of the 19th century the european system of international law encompassed the entire globe
 - Mandata system of the league of nations was an international regime created for the purpose of foverning the territories from Middle east to africa to pacific that had been annexxed by germany or the ottoman empire. Instead of treating them as spoils of war the Intl community resolved to place them under international tutelage. 
-- The mandate system sought to ensure the proection of these territories and promote self-government and intergations 
+- The mandate system sought to ensure the proection of these territories and promote self-government and intergations into the Intl system as sovereign nation states.
+- Dynamic of difference was constructed by the jurisprudence of the league. Distinction of non-european sovereignty is caused by the international systems and institutions not despite it. 
+
+## Intro
+- MS originally devised to provide internationally supervised protection for people of the above areas.
+- Woodrow Wilson - then Prez of the USA - argued for the use of the MS on the territories above rather than terrirories left behind by collapse of european empires. He thought the annexation of these territories by victorious powers would be contrary to principles of freedom and democracy.
+- Goal of MS was to protect interests of the people and guide them towards self-government and independence
+- MS embodied two broad sets of obligations. 1. to protect the natives ad advance their welfare. 2. procedural obligations relating to the system of supervision designed to ensure the mandatory power was properly administrating the area.
+- Prevent exploitation of the natives and promote well being and development
+- Dominion powers south africa, australia and new zealand were intent on annexation and unwilling to accept independence
+- Mandate territories were classified accoridng to their degree of advancement in three tiers A,B, C, with C being given extensive powers for administration
+- To acheive effective supervision, mandatories were obliged to submit and annual report to the league council. Submitted to the Permanent Mandates Commission (PMC), monitoring organ established to adise council on all matters relating to the observnce of the mandates
+- Conflict between mandatory and lage member to be sent to the Permananet Court of International Justice.
+
+## League of Nations and new intl law
+- It was through the creation of the international institution the league of nations that attempted to address the problem of war of peace, etc.
+- League attempted to replicate institutions found at the domestic level like legislature, judiciary, and executive. But it lacked power to bind its member states.
+- League attempted to establish a notion that aggresion against any member state was an aggression against all member states of the league, a system of collective security. But ti could not bind sovereignty
+- the more international economic interests grow the more international law will grow
+- International law required a legal phil that took into account social psych, econ and socio and that it was embedde in society and furthered social objectives rather than be a 'science'
+- Formation of the leage questione dthe formalist system f positivist international law based on an absolute sovereign.
+- The emergence of the UN system of intl human rights law that enabled intl law and institutions to regulate relations between a sovereign and its citizens. Thus the goal of the MS was to create the sovereign not to qualify its rights.
+- the progress of international law is intimately connected with the victory everywhere of constitutional government over autocratic government or of democracy over autocracy.
+- The interior of the state remained outside of the scrutiny of IL, because only when it manifested in external actions could it become an international issue.
+- the intl human rights law enabled entry into this interior to address and administer civilizing therapy to the body politic of the sovereign state
+- Under the MS intl law and institutions were required to create the economic political and social conditions under which a sovereign state could ocme into being.
+
+## Colonial Problems
+- Wilson asserted that each distinctive culture was entittled to being an independent state (self-determination). He condemned colonialism,
+- Imperial powers grew more acutely aware of the economic importance of colonies as they demanded more self-government and increased political freedom
+- The importance of colonies resources and labour were highlighted during the first world war where they sent soldiers to the western front and raw materials like cotton, tin, etc. They would be even more valuable in the future if their economic potentials were realized.
+- 'open door policy' one of wilsons 14 points in which it would ensure all states could trade and invest on equal footing without fear for discrimination in mandate territories, which was added to B class mandates, but wilson also wanted it for A class mandates.
+- colonial people were strviing for independence at a time where their economic value and significance for metroplois was increasingly evident, which the MS had to balance.
