@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nietzche/Weekly Essay 5.md",
+                "file": "POLS 1821R/Presentation Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nietzche/Weekly Essay 5.md",
+                "file": "POLS 1821R/Presentation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nietzche/Weekly Essay 5.md",
+                "file": "POLS 1821R/Presentation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nietzche/Weekly Essay 5.md"
+                "file": "POLS 1821R/Presentation Notes.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   "active": "cd1c6b60d889fb65",
   "lastOpenFiles": [
     "POLS 1821R/Paper Topic Proposal.md",
+    "Nietzche/Weekly Essay 5.md",
     "POLS 1821R/Presentation Notes.md",
     "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lectures/Lecture 18.md",
@@ -193,7 +194,6 @@
     "CSCI 1730/Lectures/Lecture 17.md",
     "Nietzche/Weekly essay 4.md",
     "CSCI 1730/Lectures/Lecture 15.md",
-    "CSCI 1730/Lectures/Lecture 14.md",
-    "CSCI 1730/Lectures/Lecture 13.md"
+    "CSCI 1730/Lectures/Lecture 14.md"
   ]
 }

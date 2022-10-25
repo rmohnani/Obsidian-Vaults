@@ -12,4 +12,9 @@
 - What does it mean that international law governs states when certain states were denied sovereign status?
 - Many third world jurists attempted to show some fundamental principles of international law like treaties and equity were found in african and eastern statecraft - not unique to the west. -> used to imply certain principles regarding the character and exercise of authority
 - classical intl law denounced as product of imperialism 
-- 
+
+# Chapter 3
+
+- By the conclusion of the 19th century the european system of international law encompassed the entire globe
+- Mandata system of the league of nations was an international regime created for the purpose of foverning the territories from Middle east to africa to pacific that had been annexxed by germany or the ottoman empire. Instead of treating them as spoils of war the Intl community resolved to place them under international tutelage. 
+- The mandate system sought to ensure the proection of these territories and promote self-government and intergations 
