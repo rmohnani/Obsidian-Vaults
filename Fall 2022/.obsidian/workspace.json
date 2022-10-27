@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcfcb0d340525832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nietzche/Midterm Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md",
+                "file": "Nietzche/Midterm Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md",
+                "file": "Nietzche/Midterm Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md"
+                "file": "Nietzche/Midterm Paper.md"
               }
             }
           },
@@ -183,11 +195,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cd1c6b60d889fb65",
+  "active": "bcfcb0d340525832",
   "lastOpenFiles": [
+    "POLS 1821R/Presentation Notes.md",
     "POLS 1821R/Paper Topic Proposal.md",
     "Nietzche/Weekly Essay 5.md",
-    "POLS 1821R/Presentation Notes.md",
     "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lectures/Lecture 18.md",
     "CSCI 1730/Lectures/Lecture 16.md",
