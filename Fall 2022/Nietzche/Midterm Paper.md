@@ -4,7 +4,7 @@ Your essay should complete the following three main tasks:
 
 -   First, you should offer a brief characterization of the sense in which resentment is a “reactive attitude.” This should include a description of the reaction itself, and the identification of the conditions that must be met for an action by others to elicit it.
 
-
+Strawson Insists that 
 
 
 -   Second, you should attempt to circumscribe the _personal_ character of resentment, focusing on the importance that taking the demeaning treatment personally has in it. (It is helpful, in this regard, to compare and contrast resentment with indignation, the response one has to demeaning treatment when one does not take it personally. The crucial question would be to ask what difference, in any, does the fact that one is oneself the victim of the demeaning treatment makes to one’s response to it. Hampton (1988) is helpful in this regard.)
