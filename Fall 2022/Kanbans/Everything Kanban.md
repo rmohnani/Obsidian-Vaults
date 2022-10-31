@@ -10,18 +10,14 @@ kanban-plugin: basic
 - [ ] Make [[Homework Template]]
 - [ ] email Janet for tutoring
 - [ ] Compile club list and populate gcal
-- [ ] PHYS 1410 Chapter 2 Notes
 - [ ] CSCI 1730 Semantics chapter & questions
 - [ ] POLS Readings do
 - [ ] CSCI 1730 Read More on Macros
-- [ ] PHYS 1410 Chapter 3 Notes
 - [ ] CSCI 1730 - Lecture 19 Watch
 - [ ] PHYS 1410 - Watch Lecture 19
-- [ ] PHYS 1410 - HW 4
-- [ ] Readings for POLS 1821R and Presentation
-- [ ] Midterm essay for PHIL 1340
 - [ ] POLS 1821R paragraph on paper topic
 - [ ] Take Home essay on POLS 1821R
+- [ ] CSCI 1730 - Lectures 18-24 watch
 
 
 ## In Progress
@@ -31,6 +27,11 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+- [x] Readings for POLS 1821R and Presentation
+- [x] Midterm essay for PHIL 1340
+- [x] PHYS 1410 Chapter 2 Notes
+- [x] PHYS 1410 Chapter 3 Notes
+- [x] PHYS 1410 - HW 4
 
 
 ***

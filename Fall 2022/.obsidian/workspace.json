@@ -57,11 +57,9 @@
             "id": "bcfcb0d340525832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Nietzche/Midterm Paper.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanbans/Everything Kanban.md"
               }
             }
           }
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nietzche/Midterm Paper.md",
+                "file": "Kanbans/Everything Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nietzche/Midterm Paper.md",
+                "file": "Kanbans/Everything Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nietzche/Midterm Paper.md"
+                "file": "Kanbans/Everything Kanban.md"
               }
             }
           },
@@ -197,15 +195,15 @@
   },
   "active": "bcfcb0d340525832",
   "lastOpenFiles": [
+    "CSCI 1730/Lectures/Lecture 18.md",
+    "Nietzche/Midterm Paper.md",
     "POLS 1821R/Presentation Notes.md",
     "POLS 1821R/Paper Topic Proposal.md",
     "Nietzche/Weekly Essay 5.md",
     "Kanbans/Everything Kanban.md",
-    "CSCI 1730/Lectures/Lecture 18.md",
     "CSCI 1730/Lectures/Lecture 16.md",
     "CSCI 1730/Lectures/Lecture 17.md",
     "Nietzche/Weekly essay 4.md",
-    "CSCI 1730/Lectures/Lecture 15.md",
-    "CSCI 1730/Lectures/Lecture 14.md"
+    "CSCI 1730/Lectures/Lecture 15.md"
   ]
 }
