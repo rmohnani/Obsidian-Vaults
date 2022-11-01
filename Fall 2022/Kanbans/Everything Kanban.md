@@ -18,6 +18,7 @@ kanban-plugin: basic
 - [ ] POLS 1821R paragraph on paper topic
 - [ ] Take Home essay on POLS 1821R
 - [ ] CSCI 1730 - Lectures 18-24 watch
+- [ ] PHYS 1410 - Lectures 18-23 watch
 
 
 ## In Progress
