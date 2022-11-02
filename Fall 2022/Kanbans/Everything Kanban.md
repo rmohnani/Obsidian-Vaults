@@ -28,17 +28,17 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
-- [x] Readings for POLS 1821R and Presentation
-- [x] Midterm essay for PHIL 1340
-- [x] PHYS 1410 Chapter 2 Notes
-- [x] PHYS 1410 Chapter 3 Notes
-- [x] PHYS 1410 - HW 4
 
 
 ***
 
 ## Archive
 
+- [x] 2022-11-01 Tue 18:09  -  Readings for POLS 1821R and Presentation
+- [x] 2022-11-01 Tue 18:09  -  Midterm essay for PHIL 1340
+- [x] 2022-11-01 Tue 18:09  -  PHYS 1410 Chapter 2 Notes
+- [x] 2022-11-01 Tue 18:09  -  PHYS 1410 Chapter 3 Notes
+- [x] 2022-11-01 Tue 18:09  -  PHYS 1410 - HW 4
 - [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 14]]
 - [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 15]]
 - [x] 2022-10-20 Thu 03:01  -  CSCI 1730 - Watch [[Lecture 16]]
