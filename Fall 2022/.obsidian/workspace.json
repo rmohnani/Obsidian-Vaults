@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c16c9bd9b21ce59",
+            "id": "fdda11298fe0bff9",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -18,139 +18,19 @@
             }
           },
           {
-            "id": "c9d4b037f822fbdf",
+            "id": "249eba16de8a84c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POLS 1821R/Presentation Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b89f3e228b0f1b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 1821R/Paper Topic Proposal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd1c6b60d889fb65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 1821R/Presentation Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcfcb0d340525832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad96f50255d389e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "311ebf043fb5ed3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52232f8f4297591f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da05f7999e4667ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bddd838c7d7c507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f71a62539733dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdda11298fe0bff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 1730/Lectures/Lecture 25.md",
+                "file": "CSCI 1730/Homeworks/HW?? - Analysis - Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI 1730/Lectures/Lecture 25.md",
+                "file": "CSCI 1730/Homeworks/HW?? - Analysis - Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI 1730/Lectures/Lecture 25.md",
+                "file": "CSCI 1730/Homeworks/HW?? - Analysis - Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI 1730/Lectures/Lecture 25.md"
+                "file": "CSCI 1730/Homeworks/HW?? - Analysis - Control.md"
               }
             }
           },
@@ -279,17 +159,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fdda11298fe0bff9",
+  "active": "249eba16de8a84c4",
   "lastOpenFiles": [
+    "Kanbans/Everything Kanban.md",
     "CSCI 1730/Lectures/Lecture 24.md",
     "CSCI 1730/Lectures/Lecture 23.md",
-    "CSCI 1730/Lectures/Lecture 19.md",
-    "CSCI 1730/Lectures/Lecture 20.md",
-    "CSCI 1730/Lectures/Lecture 21.md",
     "CSCI 1730/Lectures/Lecture 22.md",
+    "CSCI 1730/Lectures/Lecture 21.md",
+    "CSCI 1730/Lectures/Lecture 20.md",
+    "CSCI 1730/Lectures/Lecture 19.md",
     "CSCI 1730/Lectures/Lecture 18.md",
-    "CSCI 1730/Lectures/Lecture 17.md",
-    "Kanbans/Everything Kanban.md",
-    "Nietzche/Midterm Paper.md"
+    "POLS 1821R/Presentation Notes.md",
+    "POLS 1821R/Paper Topic Proposal.md"
   ]
 }

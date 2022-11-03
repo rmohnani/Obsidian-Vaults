@@ -13,12 +13,12 @@ kanban-plugin: basic
 - [ ] CSCI 1730 Semantics chapter & questions
 - [ ] POLS Readings do
 - [ ] CSCI 1730 Read More on Macros
-- [ ] CSCI 1730 - Lecture 19 Watch
-- [ ] PHYS 1410 - Watch Lecture 19
 - [ ] POLS 1821R paragraph on paper topic
 - [ ] Take Home essay on POLS 1821R
-- [ ] CSCI 1730 - Lectures 18-24 watch
-- [ ] PHYS 1410 - Lectures 18-23 watch
+- [ ] PHYS 1410 - Lectures 18-24 watch
+- [ ] CSCI 1730 - Type Inference
+- [ ] CSCI 1730 - Analysis
+- [ ] PHYS 1410 - HW 6
 
 
 ## In Progress
@@ -28,6 +28,7 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+- [x] CSCI 1730 - Lectures 18-25 watch
 
 
 ***
