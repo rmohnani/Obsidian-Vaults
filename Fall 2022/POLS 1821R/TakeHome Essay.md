@@ -2,7 +2,7 @@ What single factor (or set of factors) best explains why sovereign territorial s
 
 Separate into First world and Third World categories. First world use Spruyt's argument for mutual reinforcement, competitive advantage, punctuated equilibrium, imitation and for Third World use Anghie's point of the Mandate system enforcing a neocolonialism to force their state to model that of Europeans. Maybe briefly talk about China and Japan and how they're more unique than this. 
 
-## The Sovereign State and its Competitors - Spruyt
+# The Sovereign State and its Competitors - Spruyt
 
 - Spruyt claims the unilinear view of history is wrong and instead approaches the cause for soveriegn states being the dominant model through a punctated equilibrium lense like that of darwinism
 	- He talks about how the generative cause for alternative models is different from the reason that sovereign state model is what survived as the dominant one
@@ -27,7 +27,27 @@ Separate into First world and Third World categories. First world use Spruyt's a
 	- “Tilly explains the variation in unit type by different responses to the functional necessity of waging war. These different responses can in turn be explained by regional variation in the strength of towns. I argue, by contrast, that variation can be explained by different responses to a changing economic environment”
 	- “Tilly, selection is rooted in the unit’s security performance. From my perspective, the critical variable is institutional structure”
 	- “Whether or not a particular type of organization will survive depends on its ability to prevent freeriding, its credibility to commit in international treaties, compatibility with other types of organization, and the benefits that it provides to its subjects (in order to prevent defection).”
-	- 
+- “The national state centralized and accumulated more coercive means than its rivals.45 The physical size of the state makes the difference. ”
+- “If, as Tilly proposes, war making is the crucial selecting mechanism, then it is difficult to explain why so many small states survived. Why, for example, were the minuscule German states recognized as treaty signees equal to France or England, even in the middle of the nineteenth century? ”
+- “it is the empowerment by other states of such entities that allows them to continue to operate in world affairs rather than their ability to wield force.”
+- “In summary, I basically disagree with Tilly on two dimensions. First, I explain institutional variation by the specific nature of social coalitions following economic change rather than by different responses to the functional prerequisite of war making. Second, I argue that whereas war is an important factor, the ability to wage war itself needs to be explained by institutional analysis. I would argue that on these dimensions, however, my theory complements Tilly’s analysis by specifying the particular bargains underlying the state-making process.”
+
+## Chapter 3
+
+- “modern state is verily unique, for it claims sovereignty and territoriality. It is sovereign in that it claims final authority and recognizes no higher source of jurisdiction. It is territorial in that rule is defined as exclusive authority over a fixed territorial space.”
+- “contemporary state is not only territorial but is internally sovereign. That is, it is externally demarcated from others. It makes no claim to rule outside its borders and, conversely, recognizes no authority above it within them. Internally it claims final authority. In Weber’s terms, it claims the monopoly of violence or, put in more general political terms, it is the final locus of jurisdiction.”
+- “I argue that feudalism is a highly decentralized system of political organization which is based on personal ties.”
+- “There are three main differences between the logic of feudal organization and organization based on sovereign territoriality. First, feudal rule lacked hierarchy. Second, territorial rule was not exclusive. Third, feudal rule of territory was imperfect. Manorial relations in some ways resembled territorial rule the closest. One would be subject to the jurisdiction of a lord by one’s residence in a given area. However, seen as a system of larger political rule, the territorial holdings of the lords were dependent on the specific personal relations in which they were embedded. Feudal relations superseded the manorial.”
+- “Consequently, one can question whether the feudal logic of organization is even properly conceived as a system of territorial rule”
+- “In summary, the feudal logic of rule differed from sovereign territoriality in that it lacked territorial delimitation52 and lacked a final locus of jurisdiction. It was a system based on personal ties conferring rights and obligations across territories. These ties were reaffirmed by the construction of nobility as a caste, a special legal class which demarcated itself by cultural markers such as dress, manners, and rituals and which claimed superiority simply as a birthright.”
+- “The revolutionary impact of the Investiture Conflict was therefore twofold.92 First, in separating the two realms, it necessitated secular rule to justify itself by other than spiritual means. Second, in distinguishing and separating these two realms, which both had claims to universality, the two became rivals. Which one was to be subject to the other? As a result, both camps had to seek political allies, search for new sources of legitimation, and rationalize their administrative and legal machineries. The Investiture Conflict in a sense necessitated rulers to invent “secular” rule.”
+- “Traditional empires have usually had a universalist system of rule. They have basically aspired to exercise political control over their relevant sphere of economic interaction.”“Universal empires tended to claim some form of cosmological justification.”
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+- 
 
 Excerpt From
 The Sovereign State and Its Competitors
@@ -44,7 +64,6 @@ The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
 
-
 Excerpt From
 The Sovereign State and Its Competitors
 Hendrik Spruyt
@@ -60,5 +79,18 @@ Excerpt From
 The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
+
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+
 
 
