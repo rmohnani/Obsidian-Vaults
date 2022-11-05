@@ -41,12 +41,63 @@ Separate into First world and Third World categories. First world use Spruyt's a
 - “Consequently, one can question whether the feudal logic of organization is even properly conceived as a system of territorial rule”
 - “In summary, the feudal logic of rule differed from sovereign territoriality in that it lacked territorial delimitation52 and lacked a final locus of jurisdiction. It was a system based on personal ties conferring rights and obligations across territories. These ties were reaffirmed by the construction of nobility as a caste, a special legal class which demarcated itself by cultural markers such as dress, manners, and rituals and which claimed superiority simply as a birthright.”
 - “The revolutionary impact of the Investiture Conflict was therefore twofold.92 First, in separating the two realms, it necessitated secular rule to justify itself by other than spiritual means. Second, in distinguishing and separating these two realms, which both had claims to universality, the two became rivals. Which one was to be subject to the other? As a result, both camps had to seek political allies, search for new sources of legitimation, and rationalize their administrative and legal machineries. The Investiture Conflict in a sense necessitated rulers to invent “secular” rule.”
-- “Traditional empires have usually had a universalist system of rule. They have basically aspired to exercise political control over their relevant sphere of economic interaction.”“Universal empires tended to claim some form of cosmological justification.”
+- “Traditional empires have usually had a universalist system of rule. They have basically aspired to exercise political control over their relevant sphere of economic interaction.”“Universal empires tended to claim some form of cosmological justification.”“mperial strategy failed, first because it could only reach a compromise with the papacy at considerable expense. The compromise, concluded in the Concordat of Worms, conferred to the emperor the right of approval, but he could no longer appoint the bishop with sacerdotal insignia, the staff and ring.114 This was more than mere symbolism and meant that the emperor did not have jurisdiction over bishops in the emperor’s capacity as member of the clergy. ”
+- “The struggles of this period can be described as “a three cornered conflict between a secularized episcopate (anxious to preserve its customary prerogatives against papal centralization), the imperial power (which saw papal centralization as a menace to its own monarchical authority) and the Papacy (which saw centralization as the only way to a reformed and purified Church).”
+- 
 
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
+## Part 2: The Emergence of New Modes of Organization
+
+### Chapter 4 - Economic Rennaisance of the late middle ages
+
+- “Sovereignty is not a fact. It is a concept which men in certain circumstances have applied—a quality they have attributed or a claim they have counter-posed—to the political power which they or other men were exercising.”
+- “result of this economic dynamism was that a social group, the town dwellers, came into existence with new sources of revenue and power, which did not fit the old feudal order. This new social group, the burghers, had various incentives to search for political allies who were willing to change the existing order. Neither the burghers’ material preferences nor their belief systems fit the existing institutional and conceptual frameworks. “The new trading and commercial classes of the towns could not settle into the straightjacket of the feudal order, and the towns became a chief agent in its final disruption”
+- “Generative Phase
+		Independent variable:
+			Economic growth and expansion of trade (1000-1350).
+		Intervening variable:
+			New coalitions become possible because of shifts in relative power caused by economic expansion. Towns emerge that do not fit the old feudal order. They seek to create new institutions by allying with political entrepreneurs.
+		Outcome:
+			A variety of new institutions—sovereign, territorial state; city-state; and city-league.
+	Selective Phase
+		Causes of selection:
+			Competition Mutual empowerment Mimicry and exit
+		Outcome:
+			Sovereign, territorial state.”
+- “Given that towns had to contend with political opponents who wished to subject cities for their own benefit, for example, to gain revenue, towns would have to band together or seek territorial lords who were less predatorial than others. Hence, towns required either city-leagues to pool their resources or high territorial lords who were willing to mitigate their exactions from rival lords.”
+- “French towns:
+	low volume low added value
+	Corresponding level of urbanization relatively low, with the exception of Flanders and northern France. Towns prefer central organization to provide protection and improve economic climate (standardization, reduction of transaction costs, etc.).
+	
+	German towns:
+	high volume low added value
+	Moderate level of urbanization. Towns need a central actor or league to pool their resources for defense and to improve economic environment (standardization, reduction of transaction costs, etc.).
+	
+	Italian towns:
+	moderate volume high added value
+	High level of urbanization. Large towns with considerable resources do not need central actor for protection. Predatorial market suggests competition rather than collusion. Competition for market shares with high payoffs.”
+- “
+	Expected preferences of towns
+	Actual political coalitions
+	Outcome
+	
+	France:
+	central actor
+	Weak kings ally with towns. Bargain based on shared material interests regarding tax structure and royal administration as well as shared perspectives on preferred social order. Aristocracy and clergy paid off by pension schemes and tax exemptions.
+	sovereign, territorial state
+	
+	Germany:
+	central actor
+	German king (Holy Roman Emperor) pursues imperial strategy in Italy and surrenders control over the German towns to the feudal lords. After failure in Italy, the king becomes a figurehead. Towns form leagues against the lords.
+	city-leagues and independent lordships
+	
+	Italy:
+	urban independence
+	Urbanized aristocracy Unlike Germany or France, no clash between towns and lords. Bourgeois and nobles resist central control by German emperor or pope.
+	city-states”
+- “emergence of sovereign, territorial rule was, therefore, not merely a fight between the forces favoring fragmentation versus centralization; it was a contest about the very nature of authority and kingship.”
+- “But although this shift in beliefs and values was important, it alone cannot explain the decline of the medieval order. Much of Europe was exposed to similar new ideas and values, yet political outcomes differed. For example, although the emergence of a monetarized economy and pursuit of profit brought with it a revaluation of manual labor and economic gain, this was true throughout much of western Europe. Moreover, Germany, France, and Italy all had access to Roman law, and consequently all their social and political elites were familiar with the idea of sovereignty. Yet institutional outcomes differed quite radically in all three. Changes in belief systems alone cannot explain the institutional variation”
+- “Elective affinity is a predisposition to certain ideas, not the instrumental construction of values or ideas solely to serve one’s material interests.”
+- “whether such ideas become routinized will depend on their material support. The carriers of such ideas will often depend on economic power or coercive means to spread and develop these ideas. Social groups will look for political allies who can advance their preferred order. Conversely, political elites have an incentive to propagate and foster new ideas to gain support from social groups. They manipulate cultural symbols for their own instrumental reasons.38 It is thus the correspondence of interests and ideas that brings actors together in a coalition and thereby empowers new sets of ideas in political practice”
 - 
 
 Excerpt From
@@ -59,10 +110,6 @@ The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
 
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
 
 Excerpt From
 The Sovereign State and Its Competitors
@@ -74,23 +121,3 @@ Excerpt From
 The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-
-
-
