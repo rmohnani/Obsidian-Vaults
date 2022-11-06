@@ -191,3 +191,5 @@ Separate into First world and Third World categories. First world use Spruyt's a
 - “ In the first phase the variety of units form the elements of a system. Because of competitive pressure between these dislike units, and through mutual empowerment as well as individuals’ choices, the system is gradually transformed into a network of similar actors. At that point the system imposes structural limits on the type of units that are possible and will be recognized by the other actors as legitimate forms of organization in international politics. With that in mind, we might sensibly speculate on the development of the state in the futur”
 
 ### Chapter 9
+
+(Spruyt)
