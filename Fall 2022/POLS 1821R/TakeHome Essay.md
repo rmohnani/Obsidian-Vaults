@@ -108,4 +108,90 @@ Separate into First world and Third World categories. First world use Spruyt's a
 
 ### Chapter 5 - “The Rise of the Sovereign, Territorial State in Capetian France”
 
+- “after three centuries of Capetian rule, we find the basis of a sovereign state, so much so that Joseph Strayer, focusing mainly on France, can argue that by 1300 the state had become the dominant form of political organization in Europe”
+- “The first variety sees states simply as larger units compared to feudal lordships. Efficiency of scale favored the king over dukes and counts. It is basically a macrostructural account which pays little attention to social bargaining. The operative dynamic consists of Darwinian selection. Smaller units fell by the wayside.”
+- “The second, and more persuasive, interpretation explains the emergence of the state by the exchange of revenue for the provision of security by the monarch. From that perspective the king can be seen as the provider of protection in exchange for the consent of individuals to be taxed. Since military security became increasingly expensive because of the ever-rising costs of warfare, taxes had to be raised accordingly.17 Corresponding with the growth of taxation was the rise of centralized administration and a bureaucratic apparatus”
+- “The decline of the Roman Empire, for example, can be attributed to the increasing success of cavalry. The efficiency of scale of cavalry favored smaller political units. Hence the Roman borders contracted.19”
+- “In reality, however, the impacts of technological changes are always mediated through the dominant groups in power.24 To reinforce this point, one need only realize that the impact of military technological changes led to widely diverse outcomes throughout Europe. Although the technologies of war were generally available—that is French, Italian, and German actors all had roughly similar access to such technologies—they did not have the same political effect.”
+- “Society consists of a variety of identifiable actors who pursue a complex set of objectives. Political entrepreneurs seek to expand their power, burghers seek economic security, peasants might desire less control by their feudal and ecclesiastical lords, and so on. Out of these competing interests come social alliances which create institutions. One cannot argue that a particular institution emerged as an efficient response to the environmental stimulus. That would be to deduce preferences from outcomes. Although selection clearly occurs, the selective process only explains the subsequent relative efficacy and efficiency of that institution vis-à-vis other institutional arrangements. It does not explain the reasons why individuals preferred one type of institution over another, or how that preference won out in the political process. One cannot simply say that states emerged because they waged war more effectively and more efficiently than feudal organization. One can perhaps say that states survived because they were better at waging war than synchronic and rival forms of political organization. ”
+- “one might also argue against the efficiency-of-scale theory that the issue of relative efficiency and effectiveness is actually one of efficiency of institutional makeup rather than size.”
+- “Given the change in the nature of warfare, individuals perceived the king to be the logical provider of protection, and in exchange for that protection they consented to taxation.”
+- “Like Strayer, I suggest that state formation was due to the acquiescence of privileged classes.39 I argue that the emergence of the towns permitted new social bargains, which enabled the Capetian kings to centralize their authority. There were benefits for the bourgeois to side with the French king and support his policies against the nobility and church.”
+- “the size of the towns and their moderate revenues prevented them from acting independently (see Tables 5.1 and 5.2). Unlike Venice or Florence, whose revenues and military power equaled that of any sovereign, territorial state, the French towns needed some form of organization to pool their economic and political resources to gain their objectives. Yet as Robert Fawtier suggests, they could not become independent or form leagues because they were too small.”
+- “Second, the nature of the trade, with its low profit margins, was an inducement to search for forms of organization that could reduce costs and introduce more certitude in the business environment. The towns would prefer a system with standardized taxes and more regulation of weights and measures. In economic terms, the towns would prefer a form of political organization that could reduce transaction and information cost”
+- “The increasing ability to raise revenue was thus fundamental to the formation of a stronger, more centralized monarchy. More specifically, it enabled the Capetians to construct an army and an administration that were based on monetary payment rather than in-kind transfers. ”
+- “Aside from having to pay the taille, rural laborers were also subject to other taxes and feudal exactions. The ability to evade such forms of taxation, by moving to a chartered town and by paying a fixed taille to the chartering king or lord, must have seemed attractive”“Towns made it standard practice to grant freedom to any individual who had resided in that town, uncontested, for a year and a day.57 They thus provided a commoner the opportunity to escape the burden of serving a multitude of masters as a peasant.”
 - 
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+- 
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
