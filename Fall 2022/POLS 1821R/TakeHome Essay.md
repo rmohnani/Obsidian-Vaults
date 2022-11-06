@@ -121,13 +121,20 @@ Separate into First world and Third World categories. First world use Spruyt's a
 - “Second, the nature of the trade, with its low profit margins, was an inducement to search for forms of organization that could reduce costs and introduce more certitude in the business environment. The towns would prefer a system with standardized taxes and more regulation of weights and measures. In economic terms, the towns would prefer a form of political organization that could reduce transaction and information cost”
 - “The increasing ability to raise revenue was thus fundamental to the formation of a stronger, more centralized monarchy. More specifically, it enabled the Capetians to construct an army and an administration that were based on monetary payment rather than in-kind transfers. ”
 - “Aside from having to pay the taille, rural laborers were also subject to other taxes and feudal exactions. The ability to evade such forms of taxation, by moving to a chartered town and by paying a fixed taille to the chartering king or lord, must have seemed attractive”“Towns made it standard practice to grant freedom to any individual who had resided in that town, uncontested, for a year and a day.57 They thus provided a commoner the opportunity to escape the burden of serving a multitude of masters as a peasant.”
+- “he gradual incorporation of various areas into the royal domain was accomplished by a process of mutual acquiescence, marriage alliances, and sometimes force. But in all cases such incorporation was based on particularistic deals.”
+- “First, according to feudal theory, the king formed the top of the feudal hierarchy and hence had the legal ability to create new feudal relations.69 Towns were willing to put this social idea into political practice and thus favored a more centralized system. Consequently, towns did not overtly contravene feudal theory. Instead they understood their association, the commune, to be a physical body which could be incorporated into the feudal system just as any vassal. But because they sought to be independent, they attempted to be placed as high as possible in the feudal hierarchy. The best possible situation, therefore, was to be the direct vassal of the king and nominally not subject to any other lords. “It was an attempt of communities to rise by force of union in the feudal hierarchy and themselves to rank side by side with feudal seigneurs; sometimes as their vassals, but whenever possible, as suzerains themselves and tenants-in-chief of the Crown, privileged and independent of all but nominal allegiance.”
+- “political bargain broke down or did not yield sufficient results, the French kings would divert the burden to groups who were not crucial to his objectives. Properties and money of Jews were confiscated, or the Jews were taxed inexorably. Defaulting on loans from Italian bankers was another remedy. Philip the Fair accused, imprisoned, and executed the Templars who had acted as the Treasury after he had defaulted on loans from Italian bankers. Their goods became part of royal revenue. Such strategies were, however, onetime actions.”
+- “As a consequence, by enabling the king and high lords to obtain mercenaries, the warrior aristocracy eroded the very basis of its existence”
+- “For example, nobles who resided in areas that became part of the royal domain would receive pensions of several hundred pounds and were thus pulled into the royal orbit.88 Philip the Fair paid the duke of Brabant a pension of 2500 l.t. (livres tournois) to remain neutral and not aid the Count of Flanders who was in rebellion. He offered the Count of Hainaut 6000 l.t. annual rent.89 To put it bluntly, money bought allies. Nobles also routinely received a percentage of tax receipts for their area. When the royal taille became increasingly regularized from the 1380s onward, the clergy and nobility were exempted”“In short, the French king was too weak to tax the nobles. Instead he obtained revenues from other sources and bought noble acquiescence by tax exemption or outright payments.”“The direct tax system of seventeenth century France was largely in place by 1379.”
+- “king also needed the church for a variety of reasons. The church offered institutional resources besides revenue. It was a model of efficient hierarchical organization which collected revenue from faraway parishes. It also managed to dispense authority by an effective administrative machinery. And, most important perhaps, the clergy were men of knowledge who could be used within the royal bureaucracy. Thus, the chancellor was, from the end of the Carolingian Empire until Philip Augustus’s reign, a member of the clergy. In return for such service, the king would often grant his clerks a small benefice and perhaps a pension. In accepting, they would become nominal vassals of the king. For clerical members, service to the king was also a stepping stone in the administration of the church. In an environment where church and secular authority sought each other’s support, clerks who worked as liaisons made rapid promotion. Finally, the church was an attractive ally to the king because it could even provide military resources. In 1194, for example, twenty monasteries provided the king with 1,500 sergeants.96”
+- “As long as the king sought legitimacy as the highest overlord in the feudal hierarchy, he needed the church’s sanction”
+- “The pope gained a secular defender to carry out the task of Rome. The king gained a source of revenue, able administration, and basis for legitimation. And so it is not surprising to see Louis IX (1226-1270), crusader in Egypt, Montaillou, and Tunisia, become St. Louis, blessed by the church.”
 - 
 
 Excerpt From
 The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
-- 
 
 Excerpt From
 The Sovereign State and Its Competitors
@@ -139,59 +146,3 @@ The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
 
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
