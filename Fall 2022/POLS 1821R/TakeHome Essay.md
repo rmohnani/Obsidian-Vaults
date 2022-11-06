@@ -98,26 +98,14 @@ Separate into First world and Third World categories. First world use Spruyt's a
 - “But although this shift in beliefs and values was important, it alone cannot explain the decline of the medieval order. Much of Europe was exposed to similar new ideas and values, yet political outcomes differed. For example, although the emergence of a monetarized economy and pursuit of profit brought with it a revaluation of manual labor and economic gain, this was true throughout much of western Europe. Moreover, Germany, France, and Italy all had access to Roman law, and consequently all their social and political elites were familiar with the idea of sovereignty. Yet institutional outcomes differed quite radically in all three. Changes in belief systems alone cannot explain the institutional variation”
 - “Elective affinity is a predisposition to certain ideas, not the instrumental construction of values or ideas solely to serve one’s material interests.”
 - “whether such ideas become routinized will depend on their material support. The carriers of such ideas will often depend on economic power or coercive means to spread and develop these ideas. Social groups will look for political allies who can advance their preferred order. Conversely, political elites have an incentive to propagate and foster new ideas to gain support from social groups. They manipulate cultural symbols for their own instrumental reasons.38 It is thus the correspondence of interests and ideas that brings actors together in a coalition and thereby empowers new sets of ideas in political practice”
+- “The instruments that the church used to rationalize its proceedings were later appropriated by aspiring territorial rulers and modernizing elements in late medieval society.
+	First, the church had led the way in diminishing the role of kinship structures. It particularly had propagated the idea of primogeniture, because consolidated holdings would increase ecclesiastical revenue through wills.59 It thus broke up older tribal and kin relations and made it impossible later to organize market exchange along those lines.60
+	Second, the church had tried to diminish the level of ubiquitous violence by outlawing war on particular days and regulating certain modes of combat. In proclaiming the Peace and Truce of God, the church thus appropriated the role of a public actor.61 One function of this authority was to maintain the general peace. In so doing the church created the idea that one of the roles of government was to provide for the collective good.
+	Third, in arguing for a hierarchy of feudal rule rather than a grab bag of cross-cutting and multiple obligations, the church moved against fragmentation of political order. That is, it argued for a feudal pyramid. In Strayer’s words, feudal rule in the twelfth century…”
+- “the contest between church and empire eroded the basis of both sources of authority. It delegitimized both papacy and empire. Popes had to contend with antipopes, the emperor faced rivals supported by lords and pope, and some bishoprics had two bishops. Pope and emperor branded each other as false monks, usurpers, and heretics. In addition to delegitimizing each other, the contest also made secular rulers aware that ecclesiastical support was a dangerous basis for political rule. Ultimately, ecclesiastical lords would have to answer to Rome. In a sense the denial of sacral status to political rule necessitated that secular rulers find alternative justifications”
+- “other words, the demarcation and conceptualization of time and space are essentially contested concepts. “Against the merchant’s time, the church set up its own time.”69 The traditional medieval conceptualization of spatial and chronological order did not correspond to the new beliefs of society.70 The burghers had very different views about time and space. Time and space did not exist informs homologous to heaven; they did not exist transcendentally but were constructed and designed by mortals. Such new images made the later articulation of authority in and over geographical space possible.”
+- “About the middle of the eleventh century a dramatic expansion of the European economy occurred. This expansion went hand-in-hand with an increase in long-distance trade. The growth in trade made further division of labor possible. Towns increased in size and number. These settlements had widely different material interests from the old feudal and ecclesiastical order. Consequently the burghers were motivated to change existing institutions. To accomplish this, they either formed political alliances with other actors, such as an aspiring territorial ruler, or they pursued the largest amount of independence possible. Whether these towns pursued autonomy on their own, formed leagues, or allied with some centralizing authority depended first of all on the size and strength of the individual towns. Few towns, save the Italian, were strong enough to go it alone. The second factor influencing the urban set of preferences was the nature of trade. The relatively low-volume, high-profit trade of the Mediterranean, the trade in luxury goods, suggested that individual towns might try to capture a monopoly position on their own. By contrast, the low-profit, high-volume trade of the north made that policy impossible. No one actor could individually monopolize the[…]”
+
+### Chapter 5 - “The Rise of the Sovereign, Territorial State in Capetian France”
+
 - 
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
-
-
-Excerpt From
-The Sovereign State and Its Competitors
-Hendrik Spruyt
-This material may be protected by copyright.
