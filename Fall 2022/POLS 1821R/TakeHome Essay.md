@@ -165,7 +165,110 @@ Separate into First world and Third World categories. First world use Spruyt's a
 - “individuals create their own environment by preferring and tolerating only certain types of institutions. Sovereign, territorial actors had reasons to prefer similar systems of rule elsewhere. Although this process is thus less structural than Darwinian selection, the iterative choices of individuals limit the opportunities and possibilities for others. In that sense a structural situation is created as well, albeit from a more sociological perspective.
 	Third, selection also occurs by deliberate mimicry and exit. Political elites copy institutional forms that they perceive as successful. At the same time, social groups switch their allegiance to those types of organization that better meet their interests.”
 - “The Hansa did not manage to standardize a system of measurements. The confederated nature of the league left considerable autonomy to the towns, and they were unwilling to relinquish their authority regarding weights and measures.”
+- “By then there were roughly 2,500 local and regional authorities, and although not all of these minted, the chaotic currency and money conditions continued to greatly hamper German commerce.”
+- “The diversity of mints thus had two consequences. First, merchants and tax collector had to develop some way of comparing different currencies. In addition to other currencies, the Hanseatic merchant had to contend with Lübeck, Pomeranian, Prussian, and Rigan marks, Brandenburg thalers, Rhenish guilders, Flemish pounds, and English pounds sterling.45 Second, the actual value of the coin might vary depending on its regional place of origin. Different coiners used different metal contents.46 Needless to say, this lent itself to considerable abuse by the minter.”
+- “ In any case, on the issue of variation in minting, the French king brought some standardization to the multitude of mints and coinage types.”“French royal justice centralized the legal system more so than the Hansa”
+- “The ad hoc nature of Hanseatic revenue precluded such business certitude.64 The incidental tolls and customs, which the Hansa allowed some of its towns to raise, duplicated the very problem that feudalism had previously posed for mercantile pursuits.”
+- “To sum up, the Hansa proved to be less efficient in reducing transaction costs and providing collective goods than the sovereign state. It did not manage to provide standardization of weights and measurements, enforce centralized justice, establish a general system of coinage, or establish a regular means of raising revenue for a general fund.”
+- “Defection and freeriding in the Hanseatic League were driven by mutual distrust between the towns and the decentralized institutional arrangements of the Hansa. Although the league had towns, such as Lübeck, that could sometimes override collective action problems, other towns did not view Lübeck’s interests as necessarily compatible with their own”
+- “In short, the king acquired public status. The Hansa, by contrast, lacked a theory legitimating sovereign power. This was partially due to the absence of clear internal hierarchy and diffuse demarcation from non-Hansa authorities.90 There simply was no clear center that could operate as a sovereign.
+	There were thus specific reasons why social groups perceived that the king might have the interests of the realm at heart. The king benefited from the overall welfare of the state, whereas the leading towns of the Hansa did not necessarily gain from the overall welfare of the league. Individual towns rightly perceived that the disparate members had various interests which were not always served by the actions of the diet.”
+- “n short, sovereign, territorial rulers were recognized as political entrepreneurs who had vested interests in decreasing the remnants of feudal economies. In standardizing coinage, reducing the number of weights and measures, and creating more legal certitude, they reduced transaction and information costs. The greater degree of internal hierarchy was also more suited to control freeriding and defection. This in turn affected their ability to wage war more effectively than city-leagues.”
+- “nternational exchange requires a modicum of domestic stability on the part of the contracting parties and at least some expectation that each will adhere to the terms of the agreement. Internal stability is required to guarantee that the negotiating partner can indeed commit the individuals on whose behalf he or she is negotiating. The direct correlate of that condition is that the party that is committing itself to particular agreements can be expected to continue the terms of the bargain over a period of time”
+- “Because the league could not control defection, it could not credibly consign itself to long-run agreements with joint gains.112 Game theory corresponds here with some of the sociological literature. Institutions originate where repetitive behavior occurs between two actors. The more this repetition occurs, the more the actors expect a typical pattern of behavior from the other. Social roles develop which signal what type of behavior one may expect. When these roles are passed on to actors not immediately involved in the initial interactions, these roles become externalized.113 Actors should, therefore, prefer those types of institutions that clearly indicate the type of behavior one might expect from that actor. In short, political elites should prefer systems of rule in their environment that can commit their members. The representatives of the Hanseatic Diet were often not able to give such guarantees.”
+- “International actors determine who is to count as a legitimate international participant. The Peace of Westphalia made the territorial lords of the basically defunct Holy Roman Empire full participants in the internationa”“system.124 The ministates were acknowledged as legitimate participants in the international realm and would continue to play that role into the nineteenth century.125”
+- “Externally, states could credibly commit themselves and engage in long-run iterative relations. As the advantage swung in favor of sovereign states, only similar forms of organization were recognized. Domestically, sovereigns proved to be better at reducing transaction costs and providing for collective goods. As a consequence, sovereign states eventually managed to raise more revenue than their alternatives.”
+- “In short, city-states looked internally somewhat like city-leagues. There was an absence of a central actor who had incentives to further the overall interest of the city-state. The dominant town exploited the subject cities as it saw fit. Conversely, subject towns judiciously guarded their autonomy and were willing to defect from the city-state whenever the opportunity presented itself Consequently, rationalization and standardization came relatively slowly to the Italian city-states. Although such processes took a long time in France as well, there were at least political entrepreneurs who had vested interests in furthering the consolidation of a more unified national economy and social groups which benefited from the process”
+- “Instead this was the result of their empowerment as equivalent actors on the international scene, because of their external similarity to sovereign, territorial states.”
+- “Government was closed and operated for the benefit of the few who had consolidated their positions centuries earlier.”
 - 
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+- 
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
 
 Excerpt From
 The Sovereign State and Its Competitors
