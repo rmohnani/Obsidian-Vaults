@@ -129,6 +129,42 @@ Separate into First world and Third World categories. First world use Spruyt's a
 - “king also needed the church for a variety of reasons. The church offered institutional resources besides revenue. It was a model of efficient hierarchical organization which collected revenue from faraway parishes. It also managed to dispense authority by an effective administrative machinery. And, most important perhaps, the clergy were men of knowledge who could be used within the royal bureaucracy. Thus, the chancellor was, from the end of the Carolingian Empire until Philip Augustus’s reign, a member of the clergy. In return for such service, the king would often grant his clerks a small benefice and perhaps a pension. In accepting, they would become nominal vassals of the king. For clerical members, service to the king was also a stepping stone in the administration of the church. In an environment where church and secular authority sought each other’s support, clerks who worked as liaisons made rapid promotion. Finally, the church was an attractive ally to the king because it could even provide military resources. In 1194, for example, twenty monasteries provided the king with 1,500 sergeants.96”
 - “As long as the king sought legitimacy as the highest overlord in the feudal hierarchy, he needed the church’s sanction”
 - “The pope gained a secular defender to carry out the task of Rome. The king gained a source of revenue, able administration, and basis for legitimation. And so it is not surprising to see Louis IX (1226-1270), crusader in Egypt, Montaillou, and Tunisia, become St. Louis, blessed by the church.”
+- “To conclude, royal administration was based on and provided opportunities to bourgeois and lesser nobility. “In short, the royal administration was a service which attracted Frenchmen of the middle classes because it offered them a path to wealth, position, and rank”
+- “ohn Ruggie has rightly pointed out that the transformation from feudal rule to that of the sovereign, territorial state involved an important epistemic shift.125 The transformation did not merely entail a change in who exercised power; it redefined what was to count as power and as legitimate rule. The origins of late medieval ideas, such as public authority rather than personal rule, the position of the king as fountain of law, and the concept of exclusive authority over goods and land, are highly complex and difficult to trace”
+- “I argue that the social ideals of the bourgeois and the transformation of the institutional order that the towns envisioned corresponded with the views of the Capetians. They had similar views regarding authority and justice. They particularly had a mutual preference for written, Roman law. This was not merely an alternative institutional preference but a conceptual reorientation of what should count as proof and truth. Such reorientation was complex and included clashes on collective versus private property; personal rule and public authority; divine versus secular law; and the challenge of territorial rule to universalist actors”
+- “the support of the church for the king was an important factor in the early formation of the concept of sovereignty”“In short, the adoption of Roman law had important ramifications for the conduct of business”
+- “Roman law also entailed a different view of what was to count as proof and evidence. It favored written documents and fact finding rather than trial by ordeal or combat”
+- “The emergence of the sovereign state involved a transfer of loyalties to a secular state at the expense of local dynasts and the church”
+- “the king’s power grew as a result of support from the burghers for royal policy.151 Because of the expanding market, townspeople were in search of alternative political institutions more conducive to commerce and their way of life. Royal and bourgeois interests converged on the issues of taxation and administration, and they shared similar belief systems. Regular tax revenue was of great importance for royal policy because it allowed the king to weaken the old feudal order. His increased monetary capability also allowed the king to appease the nobility and clergy through side payments of pensions, tax exemptions, and rents”
+
+### Chapter 6 conclusion
+- “In Germany the reverse took place. The kings perceived their interests to lie with a universalist order, and more specifically with the control of Italy and the pope. They attempted to follow through on their imperial claims by conceding control over the towns to the feudal lords. No alliance of burghers and king materialized, and in its absence the possibility of a sovereign state evaporated.
+	Towns responded by forming city-leagues, which could represent the towns, organize them for war, and bring some regularity to trade. The Hanseatic League performed just such functions.”
+- “In a sense its logic resembled that of an empire; “imperial expansion tends to incorporate all significant economic needs within the domain itself.”117 It lacked a clear hierarchical authority and formal territorial borders. It attempted to construct political institutions to organize its long-distance commerce, wherever that went. Ultimately, however, that system of rule was destined to come into conflict with the logic of a state system.”
+
+### Chapter 7 Conclusion
+- “The strong impact and particular nature of long-distance trade are the primary reasons why no central authority emerged, be it a king or confederacy. The large urban population, made possible by this commerce, and their considerable economic and military resources diminished the necessity for a royal protector or town alliance. Moreover, the specific nature of this trade made towns prefer competition rather than central control. The Hansa’s low-value, high-volume trade yielded low profit margins. Collusion was one way to obtain a higher price for Hansa commodities. The great profits of Mediterranean trade, by contrast, were primarily from low-volume, high-value commerce. Individual towns sought, and Genoa and Venice often obtained, monopolies of particular trade routes”
+- “Italian towns were not under external lordly pressure, as were French and German towns. Foreign powers also played an important role in Italian politics. On the one hand, these powers consciously sought to divide the communes. But on the other hand, communes could also form alliances with these actors to maintain their independence.”
+- “The variety of social conditions and different forms of government thus reflected a disparity of interests, quite unlike that of the city-leagues. The communes also perceived themselves to be culturally distinct from each other. Each commune had its regimento, rules of order, which regulated citizenship and social and political activity. Each commune also developed the concept of sovereignty and thus saw no legitimate reason why any authority, be it pope, emperor, or town confederacy, should stand above the government of the city.”
+- “The city-state did not integrate its surrounding countryside and the subjected towns. This shows, for example, in the lack of citizenship privileges for the inhabitants in these subjected areas. Not all members within its territorial parameters were thus full members of the city-state.113 This lack of integration of different interests likewise shows in the inherent factionalism of many Italian towns. In France, the king could claim to be a mediator of interests, since he stood to benefit from the overall welfare of the kingdom. The Italian city-state lacked such a political actor. The government was simply perceived as the extension of a specific factional interest. As we will see, this proved to be an institutional weakness in the long run.”
+- 
+
+## Part 3: “Competition, Mutual Empowerment, and Choice: The Advantages of Sovereign Territoriality”
+
+### Chapter 8
+- “But within sovereign states there existed a final decision-making structure which brooked no outside interference and which gradually claimed a monopoly on violence and justice. In addition, the sovereign state confined itself territorially. That is, sovereigns claimed hierarchy within borders and recognized no higher authority.”
+- “lthough individual towns were surrounded by city walls, the leagues were not only noncontiguous, they lacked borders altogether. They were functionally but not territorially integrated for mutual defense of liberty and commercial interests. In short, unlike the sovereign state, the Hansa did not differentiate its authority by territorial specification, nor did it recognize a final locus of authority, either internally or externally.”
+- “The city-state formed an intermediate category of institutional structure. With the sovereign, territorial state it had in common a strict demarcation of jurisdiction by fixed borders. Also, externally the dominant city acted as the focal point for interunit contacts. But like the city-league, the city-state was internally divided. Given that the city-state consisted of one city dominating other towns, the latter always contested the rule of the leading center. Sovereignty in the city-state, to use Tilly’s terminology, was fragmented.”
+- “Institutions that internally had a final decision-making authority were in a better position to overcome the feudal remnants of economic and legal particularism. The king’s interest in rationalizing and improving the overall economy coincided with the interests of the mercantile elements in society. Such institutions were, competitively speaking, more effective and more efficient in curtailing freeriding and defection, and hence they were better at mobilizing the resources of their societies.”
+- “Moreover, because of their territorial character, states were compatible with one another. Their respective jurisdictions could be precisely specified through agreement on fixed borders. So not only could sovereigns speak on behalf of their subjects, they could also precisely specify who their subjects were. And by extension, perhaps even more importantly, borders enabled sovereigns to specify limits to their authority. City-leagues in particular were unable to do so, and hence they were difficult to incorporate in a system of states. Sovereignty, therefore, also spread by mutual recognition.”
+- “Finally, institutional selection occurred by mimicry and exit. Attractive institutions were copied by political elites.6 In addition, societal actors voted with their feet. They left institutions that were less to their liking and sought entry into those that best met their interests and belief systems.”
+- “Because of the predatorial nature of the international realm, all units have to be able to wage war in order to survive. Accordingly, if particular forms of organization fall by the wayside, this must be explainable by their inability to wage war as effectively as their rivals. It is simply a matter of Darwinian survival of the fittest”
+- “According to this explanation, sovereign states could raise more revenue and larger concentrations of troops than their feudal predecessors. In short, efficiencies of scale made sovereign states superior in waging war.”
+- “ the state surpassed city-leagues and city-states because of its command of a larger territorial space and greater population. The successful invasion by France of the Italian peninsula in 1494 is thus explained in this fashion.”
+- “The traditional story that the militarily strong simply annihilated the weak does not hold. Weak individual German cities continued to operate in the international state system—as it took form after Westphalia—whereas stronger city-leagues disappeared.”
+- “individuals create their own environment by preferring and tolerating only certain types of institutions. Sovereign, territorial actors had reasons to prefer similar systems of rule elsewhere. Although this process is thus less structural than Darwinian selection, the iterative choices of individuals limit the opportunities and possibilities for others. In that sense a structural situation is created as well, albeit from a more sociological perspective.
+	Third, selection also occurs by deliberate mimicry and exit. Political elites copy institutional forms that they perceive as successful. At the same time, social groups switch their allegiance to those types of organization that better meet their interests.”
+- “The Hansa did not manage to standardize a system of measurements. The confederated nature of the league left considerable autonomy to the towns, and they were unwilling to relinquish their authority regarding weights and measures.”
 - 
 
 Excerpt From
@@ -146,3 +182,47 @@ The Sovereign State and Its Competitors
 Hendrik Spruyt
 This material may be protected by copyright.
 
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
+
+Excerpt From
+The Sovereign State and Its Competitors
+Hendrik Spruyt
+This material may be protected by copyright.
