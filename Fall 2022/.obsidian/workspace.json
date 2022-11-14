@@ -42,12 +42,14 @@
             }
           },
           {
-            "id": "6c1da8e24d945e89",
+            "id": "a0d319dbc31d43b1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Nietzche/Weekly essay 7.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nietzche/Weekly Essay 6.md",
+                "file": "Nietzche/Weekly essay 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nietzche/Weekly Essay 6.md",
+                "file": "Nietzche/Weekly essay 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nietzche/Weekly Essay 6.md"
+                "file": "Nietzche/Weekly essay 7.md"
               }
             }
           },
@@ -178,8 +180,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c1da8e24d945e89",
+  "active": "a0d319dbc31d43b1",
   "lastOpenFiles": [
+    "Nietzche/Weekly Essay 6.md",
     "CSCI 1730/Homeworks/HW?? - Analysis - Control.md",
     "POLS 1821R/TakeHome Essay.md",
     "Kanbans/Everything Kanban.md",
@@ -188,7 +191,6 @@
     "CSCI 1730/Lectures/Lecture 22.md",
     "CSCI 1730/Lectures/Lecture 21.md",
     "CSCI 1730/Lectures/Lecture 20.md",
-    "CSCI 1730/Lectures/Lecture 19.md",
-    "CSCI 1730/Lectures/Lecture 18.md"
+    "CSCI 1730/Lectures/Lecture 19.md"
   ]
 }
