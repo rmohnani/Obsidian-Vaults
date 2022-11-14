@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Best Time to Buy and Sell Stock]]
 - [ ] [[Longest Substring Without Repeating Characters]]
 - [ ] [[Longest Repeating Character Replacement]]
 - [ ] [[Permutation in String]]
@@ -29,6 +28,7 @@ kanban-plugin: basic
 - [x] [[Two Sum II - Input Array Is Sorted]]
 - [x] [[3Sum]]
 - [x] [[Container With Most Water]]
+- [x] [[Best Time to Buy and Sell Stock]]
 
 
 ***
