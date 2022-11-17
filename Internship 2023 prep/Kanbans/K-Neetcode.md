@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Longest Repeating Character Replacement]]
 - [ ] [[Permutation in String]]
 
 
@@ -29,6 +28,7 @@ kanban-plugin: basic
 - [x] [[Container With Most Water]]
 - [x] [[Best Time to Buy and Sell Stock]]
 - [x] [[Longest Substring Without Repeating Characters]]
+- [x] [[Longest Repeating Character Replacement]]
 
 
 ***
