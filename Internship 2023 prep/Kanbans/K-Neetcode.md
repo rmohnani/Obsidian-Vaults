@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Daily Temperatures]]
 - [ ] [[Car Fleet]]
 
 
@@ -23,6 +22,7 @@ kanban-plugin: basic
 - [x] [[Min Stack]]
 - [x] [[Evaluate Reverse Polish Notation]]
 - [x] [[Generate Parentheses]]
+- [x] [[Daily Temperatures]]
 
 
 ***
