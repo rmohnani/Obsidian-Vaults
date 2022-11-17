@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Evaluate Reverse Polish Notation]]
 - [ ] [[Generate Parentheses]]
 - [ ] [[Daily Temperatures]]
 - [ ] [[Car Fleet]]
@@ -23,6 +22,7 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Valid Parentheses]]
 - [x] [[Min Stack]]
+- [x] [[Evaluate Reverse Polish Notation]]
 
 
 ***
