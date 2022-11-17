@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/daily-temperatures/
 **Difficulty**: #leetcode/difficulty/medium 
 **Special tags**: #neetcode/area/stack #leetcode/couldnt_solve 
-**Status**: #leetcode/status/todo 
+**Status**: #leetcode/status/completed  
 
 ---
 # Problem Statement

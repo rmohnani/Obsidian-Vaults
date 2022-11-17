@@ -6,7 +6,12 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Car Fleet]]
+- [ ] [[Binary Search]]
+- [ ] [[Search a 2D Matrix]]
+- [ ] [[Koko Eating Bananas]]
+- [ ] [[Search in Rotated Sorted Array]]
+- [ ] [[Find Minimum in Rotated Sorted Array]]
+- [ ] [[Time Based Key-Value Store]]
 
 
 ## In Progress
@@ -18,17 +23,18 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
-- [x] [[Valid Parentheses]]
-- [x] [[Min Stack]]
-- [x] [[Evaluate Reverse Polish Notation]]
-- [x] [[Generate Parentheses]]
-- [x] [[Daily Temperatures]]
 
 
 ***
 
 ## Archive
 
+- [x] [[Valid Parentheses]]
+- [x] [[Min Stack]]
+- [x] [[Evaluate Reverse Polish Notation]]
+- [x] [[Generate Parentheses]]
+- [x] [[Daily Temperatures]]
+- [x] [[Car Fleet]]
 - [x] [[Top K Frequent Elements]]
 - [x] [[Product of Array Except Self]]
 - [x] [[Valid Sudoku]]
