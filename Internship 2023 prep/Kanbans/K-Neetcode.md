@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Merge Two Sorted Lists]]
-- [ ] [[Reorder List]]
 - [ ] [[Remove Nth Node From End of List]]
 - [ ] [[Copy List with Random Pointer]]
 - [ ] [[Add Two Numbers]]
@@ -32,6 +30,8 @@ kanban-plugin: basic
 - [x] [[Find Minimum in Rotated Sorted Array]]
 - [x] [[Time Based Key-Value Store]]
 - [x] [[Reverse Linked List]]
+- [x] [[Merge Two Sorted Lists]]
+- [x] [[Reorder List]]
 
 
 ***

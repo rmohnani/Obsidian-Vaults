@@ -26,28 +26,24 @@ Return _the head of the merged linked list_.
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        new_list = ListNode()
-        head = new_list
+        merged_list = ListNode()
+        dummy_head = merged_list
         while list1 != None and list2 != None:
-            if list1.val < list2.val:
-                head.next = list1
+            if list1.val <= list2.val:
+                merged_list.next = list1
                 list1 = list1.next
             else:
-                head.next = list2
+                merged_list.next = list2
                 list2 = list2.next
-            head = head.next
+            merged_list = merged_list.next
         
-        while list1 != None:
-            head.next = list1
-            list1 = list1.next
-            head = head.next
+        if list1 != None:
+            merged_list.next = list1
         
-        while list2 != None:
-            head.next = list2
-            list2 = list2.next
-            head = head.next
-
-        return new_list.next
+        if list2 != None:
+            merged_list.next = list2
+        
+        return dummy_head.next
 ```
 notes: 
 time complexity: 
