@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Remove Nth Node From End of List]]
 - [ ] [[Copy List with Random Pointer]]
 - [ ] [[Add Two Numbers]]
 - [ ] [[Linked List Cycle]]
@@ -32,6 +31,7 @@ kanban-plugin: basic
 - [x] [[Reverse Linked List]]
 - [x] [[Merge Two Sorted Lists]]
 - [x] [[Reorder List]]
+- [x] [[Remove Nth Node From End of List]]
 
 
 ***

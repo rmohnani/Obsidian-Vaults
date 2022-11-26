@@ -5,7 +5,7 @@ tags:
 **Title**: 19. Remove Nth Node From End of List
 **Link**: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/linked_list 
+**Special tags**: #neetcode/area/linked_list #leetcode/got_best_solution 
 **Status**: #leetcode/status/completed  
 **Time**: 
 
