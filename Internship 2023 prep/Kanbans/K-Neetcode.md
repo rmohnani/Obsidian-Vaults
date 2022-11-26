@@ -6,13 +6,20 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Merge Two Sorted Lists]]
+- [ ] [[Reorder List]]
+- [ ] [[Remove Nth Node From End of List]]
+- [ ] [[Copy List with Random Pointer]]
+- [ ] [[Add Two Numbers]]
+- [ ] [[Linked List Cycle]]
+- [ ] [[Find the Duplicate Number]]
+- [ ] [[LRU Cache]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Time Based Key-Value Store]]
 
 
 ## Completed
@@ -23,6 +30,8 @@ kanban-plugin: basic
 - [x] [[Koko Eating Bananas]]
 - [x] [[Search in Rotated Sorted Array]]
 - [x] [[Find Minimum in Rotated Sorted Array]]
+- [x] [[Time Based Key-Value Store]]
+- [x] [[Reverse Linked List]]
 
 
 ***
