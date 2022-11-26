@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Time Based Key-Value Store]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
+- [ ] [[Time Based Key-Value Store]]
 
 
 ## Completed
