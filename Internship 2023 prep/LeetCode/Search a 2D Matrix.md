@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/search-a-2d-matrix/
 **Difficulty**: #leetcode/difficulty/medium 
 **Special tags**: #neetcode/area/binary_search #leetcode/couldnt_solve 
-**Status**: #leetcode/status/completed  
+**Status**: #leetcode/status/completed 
 
 ---
 # Problem Statement

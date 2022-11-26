@@ -5,8 +5,8 @@ tags:
 **Title**: 33. Search in Rotated Sorted Array
 **Link**: https://leetcode.com/problems/search-in-rotated-sorted-array/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/binary_search 
-**Status**: #leetcode/status/todo 
+**Special tags**: #neetcode/area/binary_search #leetcode/got_best_solution 
+**Status**: #leetcode/status/completed  
 
 ---
 # Problem Statement
@@ -20,15 +20,65 @@ You must write an algorithm with `O(log n)` runtime complexity.
 
 ---
 # My Solution
+```python
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        left = 0
+        right = len(nums) - 1
 
+        while left <= right:
+            # print(left, right)
+            middle = (left + right) // 2
+            if nums[middle] == target:
+                return middle
+            elif nums[middle] < nums[left]:
+                if nums[left] <= target or target < nums[middle]:
+                    right = middle - 1
+                else:
+                    left = middle + 1
+            elif nums[right] < nums[middle]:
+                if nums[right] >= target or nums[middle] < target:
+                    left = middle + 1
+                else:
+                    right = middle - 1
+            else:
+                if target < nums[middle]:
+                    right = middle - 1
+                else:
+                    left = middle + 1
+        return -1
+```
 notes: 
 time complexity: 
 space complexity: 
 
 ---
 # Best Solution
+```python
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        l, r = 0, len(nums) - 1
 
-notes: 
+        while l <= r:
+            mid = (l + r) // 2
+            if target == nums[mid]:
+                return mid
+
+            # left sorted portion
+            if nums[l] <= nums[mid]:
+                if target > nums[mid] or target < nums[l]:
+                    l = mid + 1
+                else:
+                    r = mid - 1
+            # right sorted portion
+            else:
+                if target < nums[mid] or target > nums[r]:
+                    r = mid - 1
+                else:
+                    l = mid + 1
+        return -1
+```
+notes: cleaner but mine also worked
 time complexity: 
 space complexity: 
 
