@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Find Minimum in Rotated Sorted Array]]
 - [ ] [[Time Based Key-Value Store]]
 
 
@@ -23,6 +22,7 @@ kanban-plugin: basic
 - [x] [[Search a 2D Matrix]]
 - [x] [[Koko Eating Bananas]]
 - [x] [[Search in Rotated Sorted Array]]
+- [x] [[Find Minimum in Rotated Sorted Array]]
 
 
 ***
