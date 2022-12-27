@@ -5,8 +5,8 @@ tags:
 **Title**: 138. Copy List with Random Pointer
 **Link**: https://leetcode.com/problems/copy-list-with-random-pointer/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/linked_list 
-**Status**: #leetcode/status/todo 
+**Special tags**: #neetcode/area/linked_list #leetcode/got_best_solution 
+**Status**: #leetcode/status/completed  
 **Time**: 
 
 ---
@@ -28,15 +28,43 @@ Your code will **only** be given the `head` of the original linked list.
 
 ---
 # My Solution
+```python
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
+        self.val = int(x)
+        self.next = next
+        self.random = random
+"""
 
-notes: 
-time complexity: 
-space complexity: 
+class Solution:
+    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        old_to_new = {None: None}
+
+		# first pass to create new equivalents for each node
+        curr = head
+        while curr != None:
+            new_node = Node(curr.val)
+            old_to_new[curr] = new_node
+            curr = curr.next
+        # second pass to make next and random connections between new nodes using old
+        curr = head
+        while curr != None:
+            new_node = old_to_new[curr]
+            new_node.next = old_to_new[curr.next]
+            new_node.random = old_to_new[curr.random]
+            curr = curr.next
+        return old_to_new[head]
+```
+notes: Since deep copying, need first pass
+time complexity: O(n)
+space complexity: O(n), n for hashmap and n in new linkedlist
 
 ---
 # Best Solution
 
-notes: 
+notes: same as mine
 time complexity: 
 space complexity: 
 

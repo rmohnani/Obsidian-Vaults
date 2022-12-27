@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Copy List with Random Pointer]]
-- [ ] [[Add Two Numbers]]
 - [ ] [[Linked List Cycle]]
 - [ ] [[Find the Duplicate Number]]
 - [ ] [[LRU Cache]]
@@ -32,6 +30,8 @@ kanban-plugin: basic
 - [x] [[Merge Two Sorted Lists]]
 - [x] [[Reorder List]]
 - [x] [[Remove Nth Node From End of List]]
+- [x] [[Copy List with Random Pointer]]
+- [x] [[Add Two Numbers]]
 
 
 ***
