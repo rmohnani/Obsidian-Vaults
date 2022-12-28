@@ -5,7 +5,7 @@ tags:
 **Title**: 287. Find the Duplicate Number
 **Link**: https://leetcode.com/problems/find-the-duplicate-number/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/linked_list 
+**Special tags**: #neetcode/area/linked_list #leetcode/couldnt_solve 
 **Status**: #leetcode/status/todo 
 **Time**: 
 
@@ -19,6 +19,18 @@ You must solve the problem **without** modifying the array `nums` and uses o
 
 ---
 # My Solution
+first sol:
+```python
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        hash
+        hashset = set()
+        for i in range(len(nums)):
+            if nums[i] in hashset:
+                return nums[i]
+            else:
+                hashset.add(nums[i])
+```
 
 notes: 
 time complexity: 
