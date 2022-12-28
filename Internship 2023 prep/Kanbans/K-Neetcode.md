@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Linked List Cycle]]
-- [ ] [[Find the Duplicate Number]]
 - [ ] [[LRU Cache]]
 
 
@@ -15,6 +13,7 @@ kanban-plugin: basic
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
+- [ ] [[Find the Duplicate Number]]
 
 
 ## Completed
@@ -32,6 +31,7 @@ kanban-plugin: basic
 - [x] [[Remove Nth Node From End of List]]
 - [x] [[Copy List with Random Pointer]]
 - [x] [[Add Two Numbers]]
+- [x] [[Linked List Cycle]]
 
 
 ***
