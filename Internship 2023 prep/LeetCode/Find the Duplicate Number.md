@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/find-the-duplicate-number/
 **Difficulty**: #leetcode/difficulty/medium 
 **Special tags**: #neetcode/area/linked_list #leetcode/couldnt_solve 
-**Status**: #leetcode/status/todo 
+**Status**: #leetcode/status/completed  
 **Time**: 
 
 ---

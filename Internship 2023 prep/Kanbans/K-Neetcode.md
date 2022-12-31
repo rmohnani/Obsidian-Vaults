@@ -6,19 +6,25 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[LRU Cache]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Find the Duplicate Number]]
 
 
 ## Completed
 
 **Complete**
+
+
+***
+
+## Archive
+
+- [x] [[Find the Duplicate Number]]
+- [x] [[LRU Cache]]
 - [x] [[Binary Search]]
 - [x] [[Search a 2D Matrix]]
 - [x] [[Koko Eating Bananas]]
@@ -32,12 +38,6 @@ kanban-plugin: basic
 - [x] [[Copy List with Random Pointer]]
 - [x] [[Add Two Numbers]]
 - [x] [[Linked List Cycle]]
-
-
-***
-
-## Archive
-
 - [x] [[Valid Parentheses]]
 - [x] [[Min Stack]]
 - [x] [[Evaluate Reverse Polish Notation]]
