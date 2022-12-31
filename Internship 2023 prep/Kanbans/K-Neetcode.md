@@ -6,6 +6,19 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Construct Binary Tree from Preorder and Inorder Traversal]]
+- [ ] [[Kth Smallest Element in a BST]]
+- [ ] [[Validate Binary Search Tree]]
+- [ ] [[Count Good Nodes in Binary Tree]]
+- [ ] [[Binary Search]]
+- [ ] [[Binary Tree Level Order Traversal]]
+- [ ] [[Lowest Common Ancestor of a Binary Search Tree]]
+- [ ] [[Subtree of Another Tree]]
+- [ ] [[Same Tree]]
+- [ ] [[Balanced Binary Tree]]
+- [ ] [[Diameter of Binary Tree]]
+- [ ] [[Maximum Depth of Binary Tree]]
+- [ ] [[Invert Binary Tree]]
 
 
 ## In Progress
