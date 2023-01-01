@@ -17,19 +17,19 @@ kanban-plugin: basic
 - [ ] [[Same Tree]]
 - [ ] [[Balanced Binary Tree]]
 - [ ] [[Diameter of Binary Tree]]
-- [ ] [[Maximum Depth of Binary Tree]]
-- [ ] [[Invert Binary Tree]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
+- [ ] [[Maximum Depth of Binary Tree]]
 
 
 ## Completed
 
 **Complete**
+- [x] [[Invert Binary Tree]]
 
 
 ***
