@@ -15,14 +15,13 @@ kanban-plugin: basic
 - [ ] [[Lowest Common Ancestor of a Binary Search Tree]]
 - [ ] [[Subtree of Another Tree]]
 - [ ] [[Same Tree]]
-- [ ] [[Balanced Binary Tree]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Diameter of Binary Tree]]
+- [ ] [[Balanced Binary Tree]]
 
 
 ## Completed
@@ -30,6 +29,7 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Invert Binary Tree]]
 - [x] [[Maximum Depth of Binary Tree]]
+- [x] [[Diameter of Binary Tree]]
 
 
 ***
