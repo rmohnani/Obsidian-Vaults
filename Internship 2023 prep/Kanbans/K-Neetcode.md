@@ -13,15 +13,13 @@ kanban-plugin: basic
 - [ ] [[Binary Search]]
 - [ ] [[Binary Tree Level Order Traversal]]
 - [ ] [[Lowest Common Ancestor of a Binary Search Tree]]
-- [ ] [[Subtree of Another Tree]]
-- [ ] [[Same Tree]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Balanced Binary Tree]]
+- [ ] [[Subtree of Another Tree]]
 
 
 ## Completed
@@ -30,6 +28,8 @@ kanban-plugin: basic
 - [x] [[Invert Binary Tree]]
 - [x] [[Maximum Depth of Binary Tree]]
 - [x] [[Diameter of Binary Tree]]
+- [x] [[Balanced Binary Tree]]
+- [x] [[Same Tree]]
 
 
 ***
