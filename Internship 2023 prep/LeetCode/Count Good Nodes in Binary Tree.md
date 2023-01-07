@@ -5,7 +5,7 @@ tags:
 **Title**: 1448. Count Good Nodes in Binary Tree
 **Link**: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/trees 
+**Special tags**: #neetcode/area/trees #leetcode/got_best_solution 
 **Status**: #leetcode/status/completed  
 **Time**: 00 : 07 : 06
 
@@ -64,7 +64,7 @@ class Solution:
 
         return dfs(root, root.val)
 ```
-notes: 
+notes: stylistic differences
 time complexity: 
 space complexity: 
 
