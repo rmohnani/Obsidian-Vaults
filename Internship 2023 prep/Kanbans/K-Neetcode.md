@@ -9,16 +9,13 @@ kanban-plugin: basic
 - [ ] [[Construct Binary Tree from Preorder and Inorder Traversal]]
 - [ ] [[Kth Smallest Element in a BST]]
 - [ ] [[Validate Binary Search Tree]]
-- [ ] [[Count Good Nodes in Binary Tree]]
-- [ ] [[Binary Search]]
-- [ ] [[Binary Tree Level Order Traversal]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Lowest Common Ancestor of a Binary Search Tree]]
+- [ ] [[Count Good Nodes in Binary Tree]]
 
 
 ## Completed
@@ -30,6 +27,9 @@ kanban-plugin: basic
 - [x] [[Balanced Binary Tree]]
 - [x] [[Same Tree]]
 - [x] [[Subtree of Another Tree]]
+- [x] [[Lowest Common Ancestor of a Binary Search Tree]]
+- [x] [[Binary Tree Level Order Traversal]]
+- [x] [[Binary Tree Right Side View]]
 
 
 ***
