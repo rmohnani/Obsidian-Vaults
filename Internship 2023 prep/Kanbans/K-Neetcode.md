@@ -6,18 +6,25 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Implement Trie (Prefix Tree)]]
+- [ ] [[Design Add and Search Words Data Structure]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Construct Binary Tree from Preorder and Inorder Traversal]]
 
 
 ## Completed
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] [[Invert Binary Tree]]
 - [x] [[Maximum Depth of Binary Tree]]
 - [x] [[Diameter of Binary Tree]]
@@ -30,12 +37,7 @@ kanban-plugin: basic
 - [x] [[Count Good Nodes in Binary Tree]]
 - [x] [[Validate Binary Search Tree]]
 - [x] [[Kth Smallest Element in a BST]]
-
-
-***
-
-## Archive
-
+- [x] [[Construct Binary Tree from Preorder and Inorder Traversal]]
 - [x] [[Find the Duplicate Number]]
 - [x] [[LRU Cache]]
 - [x] [[Binary Search]]
