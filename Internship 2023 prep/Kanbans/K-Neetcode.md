@@ -6,12 +6,18 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Last Stone Weight]]
+- [ ] [[K Closest Points to Origin]]
+- [ ] [[Kth Largest Element in an Array]]
+- [ ] [[Task Scheduler]]
+- [ ] [[Design Twitter]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
+- [ ] [[Kth Largest Element in a Stream]]
 
 
 ## Completed
