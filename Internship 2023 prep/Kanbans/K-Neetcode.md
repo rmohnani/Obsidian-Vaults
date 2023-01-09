@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Implement Trie (Prefix Tree)]]
-- [ ] [[Design Add and Search Words Data Structure]]
 
 
 ## In Progress
@@ -25,6 +23,8 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] [[Implement Trie (Prefix Tree)]]
+- [x] [[Design Add and Search Words Data Structure]]
 - [x] [[Invert Binary Tree]]
 - [x] [[Maximum Depth of Binary Tree]]
 - [x] [[Diameter of Binary Tree]]
