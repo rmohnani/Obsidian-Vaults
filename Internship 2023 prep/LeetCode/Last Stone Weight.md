@@ -2,9 +2,9 @@
 tags:
 - leetcode
 ---
-**Title**: 
-**Link**: 
-**Difficulty**: 
+**Title**: 1046. Last Stone Weight
+**Link**: https://leetcode.com/problems/last-stone-weight/
+**Difficulty**: #leetcode/difficulty/easy 
 **Special tags**: 
 **Status**: 
 **Time**: 
