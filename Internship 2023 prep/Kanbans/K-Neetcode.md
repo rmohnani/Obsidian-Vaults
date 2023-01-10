@@ -17,12 +17,12 @@ kanban-plugin: basic
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Kth Largest Element in a Stream]]
 
 
 ## Completed
 
 **Complete**
+- [x] [[Kth Largest Element in a Stream]]
 
 
 ***
