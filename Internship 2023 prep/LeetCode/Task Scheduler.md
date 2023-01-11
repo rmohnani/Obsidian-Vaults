@@ -5,7 +5,7 @@ tags:
 **Title**: 621. Task Scheduler
 **Link**: https://leetcode.com/problems/task-scheduler/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/heap_pq 
+**Special tags**: #neetcode/area/heap_pq #leetcode/couldnt_solve 
 **Status**: #leetcode/status/todo 
 **Time**: 
 
@@ -26,7 +26,27 @@ space complexity:
 
 ---
 # Best Solution
+```python
+    def leastInterval(self, tasks: List[str], n: int) -> int:
+        count = Counter(tasks)
+        maxHeap = [-cnt for cnt in count.values()]
+        heapq.heapify(maxHeap)
 
+        time = 0
+        q = deque()  # pairs of [-cnt, idleTime]
+        while maxHeap or q:
+            time += 1
+
+            if not maxHeap:
+                time = q[0][1]
+            else:
+                cnt = 1 + heapq.heappop(maxHeap)
+                if cnt:
+                    q.append([cnt, time + n])
+            if q and q[0][1] == time:
+                heapq.heappush(maxHeap, q.popleft()[0])
+        return time
+```
 notes: 
 time complexity: 
 space complexity: 
