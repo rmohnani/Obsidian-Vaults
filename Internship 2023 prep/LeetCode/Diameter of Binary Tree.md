@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/diameter-of-binary-tree/
 **Difficulty**: #leetcode/difficulty/easy 
 **Special tags**: #neetcode/area/trees #leetcode/couldnt_solve 
-**Status**: #leetcode/status/todo 
+**Status**: #leetcode/status/completed  
 **Time**: 
 
 ---

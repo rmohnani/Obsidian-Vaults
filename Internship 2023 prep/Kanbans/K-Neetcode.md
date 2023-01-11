@@ -6,29 +6,37 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Combination Sum]]
+- [ ] [[Permutations]]
+- [ ] [[Subsets II]]
+- [ ] [[Combination Sum II]]
+- [ ] [[Word Search]]
+- [ ] [[Palindrome Partitioning]]
+- [ ] [[Letter Combinations of a Phone Number]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Design Twitter]]
+- [ ] [[Subsets]]
 
 
 ## Completed
 
 **Complete**
-- [x] [[Kth Largest Element in a Stream]]
-- [x] [[Last Stone Weight]]
-- [x] [[K Closest Points to Origin]]
-- [x] [[Kth Largest Element in an Array]]
-- [x] [[Task Scheduler]]
 
 
 ***
 
 ## Archive
 
+- [x] [[Kth Largest Element in a Stream]]
+- [x] [[Last Stone Weight]]
+- [x] [[K Closest Points to Origin]]
+- [x] [[Kth Largest Element in an Array]]
+- [x] [[Task Scheduler]]
+- [x] [[Design Twitter]]
 - [x] [[Implement Trie (Prefix Tree)]]
 - [x] [[Design Add and Search Words Data Structure]]
 - [x] [[Invert Binary Tree]]
