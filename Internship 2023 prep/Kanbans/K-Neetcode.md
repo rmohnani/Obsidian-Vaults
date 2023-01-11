@@ -6,14 +6,13 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Design Twitter]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Task Scheduler]]
+- [ ] [[Design Twitter]]
 
 
 ## Completed
@@ -23,6 +22,7 @@ kanban-plugin: basic
 - [x] [[Last Stone Weight]]
 - [x] [[K Closest Points to Origin]]
 - [x] [[Kth Largest Element in an Array]]
+- [x] [[Task Scheduler]]
 
 
 ***

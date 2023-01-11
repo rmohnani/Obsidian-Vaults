@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/task-scheduler/
 **Difficulty**: #leetcode/difficulty/medium 
 **Special tags**: #neetcode/area/heap_pq #leetcode/couldnt_solve 
-**Status**: #leetcode/status/todo 
+**Status**: #leetcode/status/completed  
 **Time**: 
 
 ---
