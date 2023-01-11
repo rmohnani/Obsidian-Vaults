@@ -18,4 +18,7 @@
 - In Red Hat OpenShift, the **service** resource provides the internal abstraction that binds access to an application to its logic, which is represented in an application's pods. Also, a **service** provides load balancing capabilities within an OpenShift environment.
 - The binding of a **service** to an application's pods is internal to an OpenShift cluster. The way that external clients access applications running in OpenShift is through the OpenShift routing layer.
 - The formal name for the resource which represents the routing layer is called a **route**.
-- 
+-  When you create an application from a **container image**, OpenShift creates a **route** for the application automatically.
+
+---
+`oc adm policy add-scc-to-user anyuid -z default -n myproject --as system:admin`
