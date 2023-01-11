@@ -19,8 +19,17 @@ You must solve it in `O(n)` time complexity.
 
 ---
 # My Solution
-
-notes: 
+```python
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        num_heap = nums
+        heapq.heapify(num_heap)
+        while len(num_heap) > k:
+            heapq.heappop(num_heap)
+        return num_heap[0]
+        
+```
+notes: heapq.heapify is in-place and linear in time.
 time complexity: 
 space complexity: 
 
