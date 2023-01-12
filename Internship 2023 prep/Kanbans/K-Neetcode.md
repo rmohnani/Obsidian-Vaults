@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Subsets II]]
 - [ ] [[Combination Sum II]]
 - [ ] [[Word Search]]
 - [ ] [[Palindrome Partitioning]]
@@ -17,7 +16,7 @@ kanban-plugin: basic
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Permutations]]
+- [ ] [[Subsets II]]
 
 
 ## Completed
@@ -25,6 +24,7 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Subsets]]
 - [x] [[Combination Sum]]
+- [x] [[Permutations]]
 
 
 ***
