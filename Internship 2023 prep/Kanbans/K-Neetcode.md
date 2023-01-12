@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Word Search]]
 - [ ] [[Palindrome Partitioning]]
 - [ ] [[Letter Combinations of a Phone Number]]
 
@@ -15,7 +14,7 @@ kanban-plugin: basic
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Combination Sum II]]
+- [ ] [[Word Search]]
 
 
 ## Completed
@@ -25,6 +24,7 @@ kanban-plugin: basic
 - [x] [[Combination Sum]]
 - [x] [[Permutations]]
 - [x] [[Subsets II]]
+- [x] [[Combination Sum II]]
 
 
 ***

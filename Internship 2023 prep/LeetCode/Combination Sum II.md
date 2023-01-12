@@ -5,7 +5,7 @@ tags:
 **Title**: 40. Combination Sum II
 **Link**: https://leetcode.com/problems/combination-sum-ii/
 **Difficulty**: #leetcode/difficulty/medium 
-**Special tags**: #neetcode/area/backtracking 
+**Special tags**: #neetcode/area/backtracking #leetcode/got_best_solution 
 **Status**: #leetcode/status/completed  
 **Time**: 00 : 06 : 45
 
@@ -77,7 +77,7 @@ class Solution:
         backtrack([], 0, target)
         return 
 ```
-notes: 
+notes: stylistically different. Uses a for loop keeping track of the previous value o ensure that any duplicates get skipped over through the continue branch. Then adds curr_val which is the include branch from my version and then pops it, so on the next iteration of the loop the curr_val is skipped when we call backtrack.  and for when we called backtrack after adding the curr_val it will then add the next value and call backtrack and pop it and in the next iteration of its loop call backtrack only with the curr_val and next next val. 
 time complexity: 
 space complexity: 
 
