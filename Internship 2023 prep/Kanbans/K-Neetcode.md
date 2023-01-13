@@ -30,6 +30,7 @@ kanban-plugin: basic
 - [x] [[Clone Graph]]
 - [x] [[Max Area of Island]]
 - [x] [[Pacific Atlantic Water Flow]]
+- [x] [[Unique Paths]]
 
 
 ***
