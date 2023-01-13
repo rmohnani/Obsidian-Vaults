@@ -21,7 +21,6 @@ kanban-plugin: basic
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
 - [ ] [[N-Queens]]
-- [ ] [[Pacific Atlantic Water Flow]]
 
 
 ## Completed
@@ -30,6 +29,7 @@ kanban-plugin: basic
 - [x] [[Number of Islands]]
 - [x] [[Clone Graph]]
 - [x] [[Max Area of Island]]
+- [x] [[Pacific Atlantic Water Flow]]
 
 
 ***
