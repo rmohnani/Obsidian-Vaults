@@ -6,7 +6,7 @@ tags:
 **Link**: https://leetcode.com/problems/word-search/
 **Difficulty**: #leetcode/difficulty/medium 
 **Special tags**: #neetcode/area/backtracking #leetcode/couldnt_solve 
-**Status**: #leetcode/status/todo 
+**Status**: #leetcode/status/completed 
 **Time**: 00 : 35 : 06
 
 ---
@@ -94,7 +94,7 @@ class Solution:
 
     # O(n * m * 4^n)
 ```
-notes: 
+notes: can be optimized by checking character counts in word and board, to see if even possible to make word before exploring entire search space.
 time complexity: 
 space complexity: 
 

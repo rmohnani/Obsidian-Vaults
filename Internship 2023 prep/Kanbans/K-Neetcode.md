@@ -6,15 +6,13 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Palindrome Partitioning]]
-- [ ] [[Letter Combinations of a Phone Number]]
 
 
 ## In Progress
 
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
-- [ ] [[Word Search]]
+- [ ] [[N-Queens]]
 
 
 ## Completed
@@ -25,6 +23,9 @@ kanban-plugin: basic
 - [x] [[Permutations]]
 - [x] [[Subsets II]]
 - [x] [[Combination Sum II]]
+- [x] [[Word Search]]
+- [x] [[Palindrome Partitioning]]
+- [x] [[Letter Combinations of a Phone Number]]
 
 
 ***
