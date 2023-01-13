@@ -6,9 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Number of Islands]]
-- [ ] [[Number of Islands]]
-- [ ] [[Clone Graph]]
 - [ ] [[Max Area of Island]]
 - [ ] [[Pacific Atlantic Water Flow]]
 - [ ] [[Surrounded Regions]]
@@ -26,11 +23,13 @@ kanban-plugin: basic
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
 - [ ] [[N-Queens]]
+- [ ] [[Clone Graph]]
 
 
 ## Completed
 
 **Complete**
+- [x] [[Number of Islands]]
 
 
 ***
