@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Max Area of Island]]
-- [ ] [[Pacific Atlantic Water Flow]]
 - [ ] [[Surrounded Regions]]
 - [ ] [[Rotting Oranges]]
 - [ ] [[Walls And Gates]]
@@ -23,13 +21,15 @@ kanban-plugin: basic
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
 - [ ] [[N-Queens]]
-- [ ] [[Clone Graph]]
+- [ ] [[Pacific Atlantic Water Flow]]
 
 
 ## Completed
 
 **Complete**
 - [x] [[Number of Islands]]
+- [x] [[Clone Graph]]
+- [x] [[Max Area of Island]]
 
 
 ***
