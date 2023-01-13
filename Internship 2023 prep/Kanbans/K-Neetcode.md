@@ -6,6 +6,19 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] [[Number of Islands]]
+- [ ] [[Number of Islands]]
+- [ ] [[Clone Graph]]
+- [ ] [[Max Area of Island]]
+- [ ] [[Pacific Atlantic Water Flow]]
+- [ ] [[Surrounded Regions]]
+- [ ] [[Rotting Oranges]]
+- [ ] [[Walls And Gates]]
+- [ ] [[Course Schedule]]
+- [ ] [[Course Schedule II]]
+- [ ] [[Redundant Connection]]
+- [ ] [[Number of Connected Components in an Undirected Graph]]
+- [ ] [[Graph Valid Tree]]
 
 
 ## In Progress
@@ -18,6 +31,12 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] [[Subsets]]
 - [x] [[Combination Sum]]
 - [x] [[Permutations]]
@@ -26,12 +45,6 @@ kanban-plugin: basic
 - [x] [[Word Search]]
 - [x] [[Palindrome Partitioning]]
 - [x] [[Letter Combinations of a Phone Number]]
-
-
-***
-
-## Archive
-
 - [x] [[Kth Largest Element in a Stream]]
 - [x] [[Last Stone Weight]]
 - [x] [[K Closest Points to Origin]]
