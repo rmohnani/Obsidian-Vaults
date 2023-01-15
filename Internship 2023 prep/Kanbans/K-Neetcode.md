@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] [[Surrounded Regions]]
 - [ ] [[Rotting Oranges]]
 - [ ] [[Walls And Gates]]
 - [ ] [[Course Schedule]]
@@ -21,6 +20,7 @@ kanban-plugin: basic
 - [ ] [[Trapping Rain Water]]
 - [ ] [[Encode and Decode Strings]]
 - [ ] [[N-Queens]]
+- [ ] [[Surrounded Regions]]
 
 
 ## Completed
