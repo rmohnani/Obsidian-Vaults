@@ -13,4 +13,7 @@
 - `thread_rng` is a particular random number generator in rand
 - `Ordering` is enum with variants `Less, Greater, Equal`
 - `match` expression contains arms. each arm consists of a pattern to match against.
+- `const` used to declare constants. cannot be used with mut. necessarily immutable. must be type annotated and must be set to constant expression not one that can be determined at runtime
+- can shadow old variable with new variable of the same name
+- `mut` can't be used to change a variable's type, simply shadow instead with another `let`
 - 
