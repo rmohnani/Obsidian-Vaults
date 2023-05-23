@@ -24,4 +24,7 @@
 - can initialize array to same value by `[initial_value; array_length]`
 - When you attempt to access an element using indexing, Rust will check that the index you’ve specified is less than the array length. If the index is greater than or equal to the length, Rust will panic. This check has to happen at runtime, especially in this case, because the compiler can’t possibly know what value a user will enter when they run the code later.
    This is an example of Rust’s memory safety principles in action. In many low-level languages, this kind of check is not done, and when you provide an incorrect index, invalid memory can be accessed. Rust protects you against this kind of error by immediately exiting instead of allowing the memory access and continuing.
+- _Statements_ are instructions that perform some action and do not return a value. _Expressions_ evaluate to a resulting value. Expressions do not include ending semicolons. If you add a semicolon to the end of an expression, you turn it into a statement, and it will then not return a value.
+- normal comments done with `//`. documentation comments will see later
+- condition in `if` statement must be of type bool. both branches of if statement must have same type
 - 
