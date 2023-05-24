@@ -27,4 +27,6 @@
 - _Statements_ are instructions that perform some action and do not return a value. _Expressions_ evaluate to a resulting value. Expressions do not include ending semicolons. If you add a semicolon to the end of an expression, you turn it into a statement, and it will then not return a value.
 - normal comments done with `//`. documentation comments will see later
 - condition in `if` statement must be of type bool. both branches of if statement must have same type
+- **Box deallocation principle (fully correct):** If a variable owns a box, when Rust deallocates the variable's frame, then Rust deallocates the box's heap memory.
+- **Moved heap data principle:** if a variable `x` moves ownership of heap data to another variable `y`, then `x` cannot be used after the move.
 - 
